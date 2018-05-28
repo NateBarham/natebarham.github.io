@@ -299,8 +299,8 @@ table {
   background: #2a6417;
   width: 100%;
   margin: 0;
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 6px;
+  padding-bottom: 6px;
   padding-left: 0px;
   padding-right: 0px;
   border: none;
@@ -310,6 +310,9 @@ table {
   @media screen and (max-width: 580px) {
     .mobile-nav {
       display: inline; } }
+
+.mobile-select {
+  width: 80%; }
 
 .main-nav,
 .drop-nav {
