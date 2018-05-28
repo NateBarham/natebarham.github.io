@@ -209,6 +209,21 @@
   max-width: 100%;
   display: inline;
   text-align: center;
+  
+  	@include media-query($on-palm) {
+  		padding: 0;
+  	}
+ }
+ 
+ .hero-image {
+  max-width: 33%;
+  padding: 2px;
+  vertical-align: middle;
+  background: #081860;
+  
+  	@include media-query($on-palm) {
+  	
+  	}
  }
 
  .full {
