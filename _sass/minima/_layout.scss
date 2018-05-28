@@ -131,6 +131,24 @@
   padding: 6px;
   margin-bottom: 0;
   text-align: center;
+  
+  @include media-query($on-palm) {
+  	display: none;
+  }
+}
+
+.mobile-nav {
+	background: $green-color-dark;
+	width: 100%;
+	margin: 0;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 0px;
+	padding-right: 0px;
+	border: none;
+	color: lighten($text-color, 90%);
+	display: inline;
+	text-align: center;
 }
 
   .main-nav,
@@ -222,7 +240,7 @@
   background: #081860;
   
   	@include media-query($on-palm) {
-  	
+  		padding: 0;
   	}
  }
 
