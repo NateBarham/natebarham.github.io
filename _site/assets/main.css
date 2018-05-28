@@ -504,6 +504,12 @@ table {
 .page-content {
   padding: 30px 0;
   flex: 1; }
+  @media screen and (max-width: 580px) {
+    .page-content {
+      padding-left: 30px;
+      padding-right: 30px;
+      padding-top: 30px;
+      flex: 1; } }
 
 .page-heading {
   font-size: 40px;

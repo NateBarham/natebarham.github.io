@@ -387,6 +387,13 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+
+  @include media-query($on-palm) {
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+  padding-top: $spacing-unit;
+  flex: 1;
+  }
 }
 
 .page-heading {
