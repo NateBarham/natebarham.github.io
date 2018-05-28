@@ -217,6 +217,9 @@ table {
   .site-title:hover {
     color: #2a6417;
     text-decoration: none; }
+  @media screen and (max-width: 580px) {
+    .site-title {
+      font-size: 40px; } }
 
 .site-nav {
   font-family: Quattrocento Sans;
