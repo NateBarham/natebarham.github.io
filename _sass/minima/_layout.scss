@@ -32,7 +32,7 @@
     text-decoration: none;
   }
   @include media-query($on-palm) {
-  @include relative-font-size(2.75);
+  @include relative-font-size(3);
   line-height: $base-line-height * $base-font-size * 1.4;
   }
 }
@@ -280,6 +280,10 @@
     Background-color: $green-color-dark;
     display: inline;
     text-align: center;
+    
+    @include media-query($on-palm) {
+    	display: none;
+    }
  }
 
  .down-caret {
@@ -290,6 +294,10 @@
     transform: scaleY(0.5);
     transform-origin: 0 0;
     opacity: 0.5;
+    
+    @include media-query($on-palm) {
+    	display: none;
+    }
  }
 
 
@@ -392,7 +400,7 @@
   font-weight: 700;
   font-variant: small-caps;
   letter-spacing: -2px;
-  margin-top: $spacing-unit;
+  margin-top: $spacing-unit * .25;
   margin-bottom: $spacing-unit;
   border-bottom: 2px solid $green-color;
 

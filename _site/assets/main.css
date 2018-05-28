@@ -225,7 +225,7 @@ table {
     text-decoration: none; }
   @media screen and (max-width: 580px) {
     .site-title {
-      font-size: 55px;
+      font-size: 60px;
       line-height: 42px; } }
 
 .site-nav {
@@ -421,6 +421,9 @@ table {
   Background-color: #2a6417;
   display: inline;
   text-align: center; }
+  @media screen and (max-width: 580px) {
+    .bar {
+      display: none; } }
 
 .down-caret {
   position: relative;
@@ -430,6 +433,9 @@ table {
   transform: scaleY(0.5);
   transform-origin: 0 0;
   opacity: 0.5; }
+  @media screen and (max-width: 580px) {
+    .down-caret {
+      display: none; } }
 
 /**
  * Site footer
@@ -509,7 +515,7 @@ table {
   font-weight: 700;
   font-variant: small-caps;
   letter-spacing: -2px;
-  margin-top: 30px;
+  margin-top: 7.5px;
   margin-bottom: 30px;
   border-bottom: 2px solid #3c8e20; }
 
