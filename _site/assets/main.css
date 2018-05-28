@@ -316,6 +316,13 @@ table {
   @media screen and (max-width: 580px) {
     .mobile-nav {
       display: inline; } }
+  .mobile-nav .buy-button {
+    font-family: Quattrocento Sans;
+    font-weight: 700;
+    color: white;
+    font-size: 24px;
+    line-height: 1.5;
+    margin-left: 28px; }
 
 .mobile-select {
   font-size: 24px;

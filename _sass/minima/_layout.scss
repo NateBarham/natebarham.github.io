@@ -153,6 +153,15 @@
 	@include media-query($on-palm) {
 		display: inline;
 	}
+	
+	.buy-button {
+		font-family: Quattrocento Sans;
+		font-weight: 700;
+  		color: lighten($text-color, 90%);
+    	font-size: $base-font-size * 1.2;
+    	line-height: $base-line-height;
+    	margin-left: 28px;
+  }
 }
 
 	.mobile-select {
@@ -230,7 +239,6 @@
   .dropdown:hover > .drop-nav {
     display: block;
   }
-
 
 
 /**
