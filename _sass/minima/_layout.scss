@@ -389,8 +389,8 @@
   flex: 1;
 
   @include media-query($on-palm) {
-  padding-left: $spacing-unit * 0.5;
-  padding-right: $spacing-unit * 0.5;
+  padding-left: $spacing-unit * 0.25;
+  padding-right: $spacing-unit * 0.25;
   padding-top: $spacing-unit;
   flex: 1;
   }

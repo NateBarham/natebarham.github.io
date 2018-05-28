@@ -506,8 +506,8 @@ table {
   flex: 1; }
   @media screen and (max-width: 580px) {
     .page-content {
-      padding-left: 15px;
-      padding-right: 15px;
+      padding-left: 7.5px;
+      padding-right: 7.5px;
       padding-top: 30px;
       flex: 1; } }
 
