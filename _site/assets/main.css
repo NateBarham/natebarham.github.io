@@ -219,7 +219,7 @@ table {
     text-decoration: none; }
   @media screen and (max-width: 580px) {
     .site-title {
-      font-size: 45px;
+      font-size: 40px;
       line-height: 42px; } }
 
 .site-nav {
@@ -312,7 +312,10 @@ table {
       display: inline; } }
 
 .mobile-select {
-  width: 80%; }
+  width: 80%;
+  background: #2a6417;
+  color: white;
+  border: none; }
 
 .main-nav,
 .drop-nav {

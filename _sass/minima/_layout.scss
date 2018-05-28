@@ -32,7 +32,7 @@
     text-decoration: none;
   }
   @include media-query($on-palm) {
-  @include relative-font-size(2.25);
+  @include relative-font-size(2);
   line-height: $base-line-height * $base-font-size * 1.4;
   }
 }
@@ -157,6 +157,9 @@
 
 	.mobile-select {
 		width: 80%;
+		background: $green-color-dark;
+		color: lighten($text-color, 90%);
+		border: none;
 	}
 
   .main-nav,
