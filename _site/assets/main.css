@@ -305,8 +305,11 @@ table {
   padding-right: 0px;
   border: none;
   color: white;
-  display: inline;
-  text-align: center; }
+  text-align: center;
+  display: none; }
+  @media screen and (max-width: 580px) {
+    .mobile-nav {
+      display: inline; } }
 
 .main-nav,
 .drop-nav {

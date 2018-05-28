@@ -147,8 +147,12 @@
 	padding-right: 0px;
 	border: none;
 	color: lighten($text-color, 90%);
-	display: inline;
 	text-align: center;
+	display: none;
+	
+	@include media-query($on-palm) {
+		display: inline;
+	}
 }
 
   .main-nav,
