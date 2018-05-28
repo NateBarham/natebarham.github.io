@@ -312,7 +312,10 @@ table {
       display: inline; } }
 
 .mobile-select {
-  width: 80%;
+  font-size: 18px;
+  font-family: Quattrocento Sans;
+  font-weight: 700;
+  width: 110px;
   background: #2a6417;
   color: white;
   border: none; }

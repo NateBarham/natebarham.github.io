@@ -156,7 +156,10 @@
 }
 
 	.mobile-select {
-		width: 80%;
+		@include relative-font-size(.9);
+		font-family: Quattrocento Sans;
+		font-weight: 700;
+		width: 110px;
 		background: $green-color-dark;
 		color: lighten($text-color, 90%);
 		border: none;
