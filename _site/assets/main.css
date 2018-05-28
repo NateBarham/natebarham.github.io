@@ -321,7 +321,10 @@ table {
   border: none;
   padding-left: 4px;
   padding-right: 4px;
-  -webkit-appearance: none; }
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  /* needed for Firefox: */
+  overflow: hidden; }
 
 .main-nav,
 .drop-nav {
@@ -388,15 +391,6 @@ table {
     .hero {
       padding: 0; } }
 
-.hero-image {
-  max-width: 33%;
-  padding: 2px;
-  vertical-align: middle;
-  background: #081860; }
-  @media screen and (max-width: 580px) {
-    .hero-image {
-      padding: 0; } }
-
 .full {
   max-width: 100vw;
   position: relative;
@@ -411,6 +405,9 @@ table {
 .book-landing {
   width: 27%;
   padding: 0; }
+  @media screen and (max-width: 580px) {
+    .book-landing {
+      width: 33%; } }
 
 .bar {
   max-width: 100%;
