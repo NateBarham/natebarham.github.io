@@ -315,10 +315,13 @@ table {
   font-size: 18px;
   font-family: Quattrocento Sans;
   font-weight: 700;
-  width: 110px;
+  width: 83px;
   background: #2a6417;
   color: white;
-  border: none; }
+  border: none;
+  padding-left: 4px;
+  padding-right: 4px;
+  -webkit-appearance: none; }
 
 .main-nav,
 .drop-nav {
