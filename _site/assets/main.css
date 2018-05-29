@@ -340,11 +340,14 @@ table {
   overflow: hidden; }
 
 .mobile-links {
+  font-family: Quattrocento Sans;
+  font-weight: 700;
   text-align: center;
   text-transform: capitalize;
   text-decoration: underline;
   color: #3c8e20;
-  font-size: 25px;
+  font-size: 22px;
+  letter-spacing: -1px;
   line-height: 1.5;
   display: none; }
   @media screen and (max-width: 580px) {
