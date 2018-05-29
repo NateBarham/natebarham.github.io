@@ -339,6 +339,22 @@ table {
   /* needed for Firefox: */
   overflow: hidden; }
 
+.mobile-links {
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: underline;
+  color: #3c8e20;
+  font-size: 25px;
+  line-height: 1.5;
+  display: none; }
+  @media screen and (max-width: 580px) {
+    .mobile-links {
+      display: block; } }
+
+.mobile-links > li {
+  display: inline;
+  padding: 12px; }
+
 .main-nav,
 .drop-nav {
   background: #2a6417; }

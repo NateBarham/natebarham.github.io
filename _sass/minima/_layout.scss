@@ -179,6 +179,29 @@
 		    /* needed for Firefox: */
     		overflow:hidden;
 	}
+	
+	.mobile-links {
+		text-align: center;
+		text-transform: capitalize;
+		text-decoration: underline;
+		color: $green-color;
+		font-size: $base-font-size * 1.25;
+    	line-height: $base-line-height;
+    	display: none;
+    	
+    	@include media-query($on-palm) {
+    		display: block;
+    	}
+	}
+	
+	.mobile-links > li {
+		display: inline;
+		padding: 12px;
+	}
+	
+	.mobile-links > a {
+	}
+
 
   .main-nav,
   .drop-nav {
