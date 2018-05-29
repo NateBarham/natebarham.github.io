@@ -354,11 +354,6 @@ table {
     .mobile-links {
       display: block; } }
 
-.mobile-links > li {
-  display: inline;
-  padding-left: 4px;
-  padding-right: 4px; }
-
 .main-nav,
 .drop-nav {
   background: #2a6417; }
