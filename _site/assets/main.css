@@ -44,9 +44,10 @@ main {
  * Images
  */
 img {
-  max-width: 33%;
+  max-width: 30%;
   padding: 2px;
   vertical-align: middle;
+  text-align: center;
   background: #081860; }
 
 /**
