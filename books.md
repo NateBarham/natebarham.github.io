@@ -6,9 +6,11 @@ order: 2
 ---
 (Click to see purchase options and an excerpt.)
 
-[![Volume I, Fragments](/assets/images/fragments.jpg/)](/volume 1/)
-[![Volume II, The Elf and the Arrow](/assets/images/the elf and the arrow.jpg/)](/volume 2/)
-[![Volume III, The Voice like Water](/assets/images/the voice like water.jpg/)](/volume 3/)
+<a class="book-page" href="/volume 1/"><img class="book-page" src="/assets/images/fragments.jpg" alt="Fragments Cover"></a>
+<a href="/volume 2/"><img class="book-page" src="/assets/images/the elf and the arrow.jpg" alt="The Elf and the Arrow Cover"></a>
+<a href="/volume 3/"><img class="book-page" src="/assets/images/the voice like water.jpg" alt="The Voice like Water Cover"></a>
+
+
 
 [IV - Circlets and Seekers](/volume 4/)
 

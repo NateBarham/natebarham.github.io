@@ -269,7 +269,7 @@
  .hero {
   line-height: $base-line-height * $base-font-size * 0;
   font-size: 0;
-  background: #050f3d;
+  background: $blue-color;
   border-top: 1px solid $grey-color-dark;
   border-bottom: 0px solid $grey-color-dark;
   margin-bottom: 0;
@@ -302,6 +302,11 @@
   	@include media-query($on-palm) {
   		width: 33%;
   	}
+ }
+ 
+ .book-page {
+  max-width: 30%;
+  margin: 2px;
  }
 
  .bar {

@@ -44,10 +44,9 @@ main {
  * Images
  */
 img {
-  max-width: 30%;
+  max-width: 27%;
   padding: 2px;
   vertical-align: middle;
-  text-align: center;
   background: #081860; }
 
 /**
@@ -441,6 +440,10 @@ table {
   @media screen and (max-width: 580px) {
     .book-landing {
       width: 33%; } }
+
+.book-page {
+  max-width: 30%;
+  margin: 2px; }
 
 .bar {
   max-width: 100%;
