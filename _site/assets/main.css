@@ -340,6 +340,10 @@ table {
   overflow: hidden; }
 
 .mobile-links {
+  padding-top: 18px;
+  margin-top: 7.5px;
+  margin-bottom: 18px;
+  border-top: 2px solid #3c8e20;
   font-family: Quattrocento Sans;
   font-weight: 700;
   text-align: center;

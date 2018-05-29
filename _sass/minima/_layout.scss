@@ -181,6 +181,11 @@
 	}
 	
 	.mobile-links {
+		padding-top: $spacing-unit * .6;
+		margin-top: $spacing-unit * .25;
+		margin-bottom: $spacing-unit *.6;
+		border-top: 2px solid $green-color;
+	
 		font-family: Quattrocento Sans;
 		font-weight: 700;
 		text-align: center;
