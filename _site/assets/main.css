@@ -442,7 +442,6 @@ table {
 
 .book-page {
   width: 30%;
-  text-align: center;
   display: inline; }
   @media screen and (max-width: 580px) {
     .book-page {
