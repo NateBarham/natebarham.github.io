@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Important Locations
 permalink: /locations/
 mobile_link_1: vladvir
 mobile_link_name_1: The World of Vladvir
@@ -10,9 +10,7 @@ mobile_link_3: pronunciation
 mobile_link_name_3: Pronunciation Guide
 ---
 
-## Important Locations  
-
-![Tolarenz - Original photo by Steven Dunleavy](/assets/images/tolarenz.jpg/){:style="margin-top: 36px"}
+![Tolarenz - Original photo by Steven Dunleavy](/assets/images/tolarenz.jpg/)
 
 ### The Valley of Tolarenz
 

@@ -420,6 +420,7 @@
   font-variant: small-caps;
   letter-spacing: -1px;
   line-height: 1;
+  margin-bottom: $spacing-unit * .5;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2);
