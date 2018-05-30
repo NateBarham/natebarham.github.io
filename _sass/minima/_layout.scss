@@ -297,7 +297,6 @@
 
  .book-landing {
   width: 27%;
-  padding: 0;
   
   	@include media-query($on-palm) {
   		width: 33%;
@@ -427,7 +426,7 @@
 }
 
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $spacing-unit;
   flex: 1;
 
   @include media-query($on-palm) {
