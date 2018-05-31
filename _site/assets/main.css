@@ -439,11 +439,11 @@ table {
     .book-landing {
       width: 33%; } }
 
-.book-page {
-  width: 30%;
+.books-page {
+  width: 32%;
   display: inline; }
   @media screen and (max-width: 580px) {
-    .book-page {
+    .books-page {
       width: 80%;
       margin-bottom: 15px; } }
 

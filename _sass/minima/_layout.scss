@@ -303,13 +303,24 @@
   	}
  }
  
- .book-page {
-  width: 30%;
+ .books-page {
+  width: 32%;
   display: inline;
     
   	@include media-query($on-palm) {
   		width: 80%;
   		margin-bottom: $spacing-unit * .5;
+  	}
+ }
+ 
+ .books-page-last {
+  width: 32%;
+  display: inline;
+  
+  	@include media-query($on-palm) {
+  		width: 80%;
+  		margin-bottom: $spacint-unit * .5;
+  		padding-right: 5px;
   	}
  }
 
