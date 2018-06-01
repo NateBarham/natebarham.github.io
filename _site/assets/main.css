@@ -384,7 +384,7 @@ table {
   margin-right: 15px; }
 
 .drop-nav {
-  position: absolute;
+  position: relative;
   display: none; }
 
 .drop-nav a {
