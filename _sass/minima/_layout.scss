@@ -262,10 +262,10 @@
     }
 
   .dropdown:hover > .drop-nav {
-    nav li:hover ul, 
-        #nav li li:hover ul, 
-        #nav li.sfhover ul, 
-        #nav li li.sfhover ul { 
+    	li:hover ul, 
+        li li:hover ul, 
+        li.sfhover ul, 
+        li li.sfhover ul { 
             left: 0; /*Added*/
         }
     display: block;

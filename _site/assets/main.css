@@ -406,10 +406,10 @@ table {
 
 .dropdown:hover > .drop-nav {
   display: block; }
-  .dropdown:hover > .drop-nav nav li:hover ul,
-  .dropdown:hover > .drop-nav #nav li li:hover ul,
-  .dropdown:hover > .drop-nav #nav li.sfhover ul,
-  .dropdown:hover > .drop-nav #nav li li.sfhover ul {
+  .dropdown:hover > .drop-nav li:hover ul,
+  .dropdown:hover > .drop-nav li li:hover ul,
+  .dropdown:hover > .drop-nav li.sfhover ul,
+  .dropdown:hover > .drop-nav li li.sfhover ul {
     left: 0;
     /*Added*/ }
 
