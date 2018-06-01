@@ -397,7 +397,8 @@ table {
   white-space: nowrap;
   text-align: left;
   margin-right: 6px;
-  position: relative; }
+  position: relative;
+  overflow: visible; }
 
 .drop-nav li:first-child {
   margin-top: 6px;
