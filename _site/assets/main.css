@@ -390,12 +390,14 @@ table {
 .drop-nav a {
   font-size: 20px;
   margin-left: 12px;
-  margin-right: 8px; }
+  margin-right: 8px;
+  position: relative; }
 
 .drop-nav li {
   white-space: nowrap;
   text-align: left;
-  margin-right: 6px; }
+  margin-right: 6px;
+  position: relative; }
 
 .drop-nav li:first-child {
   margin-top: 6px;

@@ -242,12 +242,14 @@
     font-size: $base-font-size * 1;
     margin-left: 12px;
     margin-right: 8px;
+    position: relative;
   }
 
   .drop-nav li {
     white-space: nowrap;
     text-align: left;
     margin-right: 6px;
+    position: relative;
   }
 
     .drop-nav li:first-child {
