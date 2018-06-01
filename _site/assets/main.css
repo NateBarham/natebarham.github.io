@@ -403,6 +403,7 @@ table {
   display: block; }
 
 .dropdown:hover > .drop-nav {
+  position: absolute;
   display: block; }
 
 /**
