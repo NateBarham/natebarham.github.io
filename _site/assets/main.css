@@ -364,7 +364,6 @@ table {
   display: inline; }
 
 .main-nav li:first-child {
-  border-left: none;
   display: inline; }
 
 .main-nav a {
@@ -397,8 +396,7 @@ table {
   white-space: nowrap;
   text-align: left;
   margin-right: 6px;
-  position: relative;
-  overflow: visible; }
+  position: relative; }
 
 .drop-nav li:first-child {
   margin-top: 6px;
@@ -406,12 +404,6 @@ table {
 
 .dropdown:hover > .drop-nav {
   display: block; }
-  .dropdown:hover > .drop-nav li:hover ul,
-  .dropdown:hover > .drop-nav li li:hover ul,
-  .dropdown:hover > .drop-nav li.sfhover ul,
-  .dropdown:hover > .drop-nav li li.sfhover ul {
-    left: 0;
-    /*Added*/ }
 
 /**
  * Site Image Blocks
