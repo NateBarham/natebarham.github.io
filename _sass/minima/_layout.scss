@@ -568,7 +568,7 @@
   margin-bottom: $spacing-unit;
   
   @include media-query($on-palm) {
-   @include relative-font-size(.9);
+   @include relative-font-size(.95);
   }
   
   ul {
