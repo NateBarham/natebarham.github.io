@@ -78,14 +78,16 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: $spacing-unit * 0;
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 
 li {
   > ul,
   > ol {
-    margin-bottom: 0;
+    margin: 0;
+    padding: 0;
   }
 }
 

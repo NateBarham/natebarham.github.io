@@ -2,11 +2,11 @@
 layout: page
 title: Nathan Barham
 permalink: /about/
-mobile_link_1: about
+mobile_link_1: /about/
 mobile_link_name_1: Author
-mobile_link_2: barhamink
+mobile_link_2: /barhamink/
 mobile_link_name_2: Barham Ink
-mobile_link_3: the-site
+mobile_link_3: /the-site/
 mobile_link_name_3: Site Details
 ---
 

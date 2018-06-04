@@ -2,12 +2,12 @@
 layout: page
 title: Fragments
 permalink: /books/fragments/
-mobile_link_1: /books/
-mobile_link_name_1: Books
+mobile_link_1: 
+mobile_link_name_1: Paperback 
 mobile_link_2: 
-mobile_link_name_2: 
-mobile_link_3: 
-mobile_link_name_3: 
+mobile_link_name_2: iBooks
+mobile_link_3: https://amzn.to/2sDNs5R
+mobile_link_name_3: Kindle
 ---
 
 ## Prologue

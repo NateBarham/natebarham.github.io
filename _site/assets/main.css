@@ -61,12 +61,14 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 0px;
+  margin: 0;
+  padding: 0;
   list-style: none; }
 
 li > ul,
 li > ol {
-  margin-bottom: 0; }
+  margin: 0;
+  padding: 0; }
 
 /**
  * Headings
@@ -300,6 +302,59 @@ table {
     .main-nav {
       display: none; } }
 
+.main-nav,
+.drop-nav {
+  background: #2a6417; }
+
+.main-nav > li {
+  display: inline; }
+
+.main-nav li:first-child {
+  display: inline; }
+
+.main-nav a {
+  color: white;
+  font-size: 25px;
+  line-height: 1.5;
+  margin-right: 15px;
+  display: inline-block; }
+  .main-nav a:not(:last-child) {
+    margin-right: 0; }
+
+.dropdown {
+  color: white;
+  font-size: 25px;
+  line-height: 1.5;
+  position: relative;
+  margin-right: 15px; }
+
+.drop-nav {
+  position: absolute;
+  display: none; }
+
+.drop-nav a {
+  font-size: 20px;
+  margin-left: 12px;
+  margin-right: 8px;
+  position: relative; }
+
+.drop-nav li {
+  white-space: nowrap;
+  text-align: left;
+  margin-right: 6px;
+  position: relative; }
+
+.drop-nav li:first-child {
+  margin-top: 6px;
+  display: block; }
+
+.dropdown:hover > .drop-nav {
+  position: absolute;
+  display: block; }
+
+/**
+ * Mobile Navigation
+ */
 .mobile-nav {
   background: #2a6417;
   width: 100%;
@@ -350,61 +405,10 @@ table {
   color: #3c8e20;
   font-size: 23px;
   letter-spacing: -1px;
-  line-height: 1.5;
-  display: none; }
+  line-height: 1.5; }
   @media screen and (max-width: 580px) {
     .mobile-links {
       display: block; } }
-
-.main-nav,
-.drop-nav {
-  background: #2a6417; }
-
-.main-nav > li {
-  display: inline; }
-
-.main-nav li:first-child {
-  display: inline; }
-
-.main-nav a {
-  color: white;
-  font-size: 25px;
-  line-height: 1.5;
-  margin-right: 15px;
-  display: inline-block; }
-  .main-nav a:not(:last-child) {
-    margin-right: 0; }
-
-.dropdown {
-  color: white;
-  font-size: 25px;
-  line-height: 1.5;
-  position: relative;
-  margin-right: 15px; }
-
-.drop-nav {
-  position: relative;
-  display: none; }
-
-.drop-nav a {
-  font-size: 20px;
-  margin-left: 12px;
-  margin-right: 8px;
-  position: relative; }
-
-.drop-nav li {
-  white-space: nowrap;
-  text-align: left;
-  margin-right: 6px;
-  position: relative; }
-
-.drop-nav li:first-child {
-  margin-top: 6px;
-  display: block; }
-
-.dropdown:hover > .drop-nav {
-  position: absolute;
-  display: block; }
 
 /**
  * Site Image Blocks
@@ -434,6 +438,37 @@ table {
   margin-left: -50vw;
   left: 50%;
   padding: 0; }
+
+.hero-image {
+  background-image: url("/assets/images/fragments.jpg");
+  height: 25vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; }
+
+.hero-text {
+  text-align: center;
+  line-height: 1.1em;
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: white; }
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 5px 12px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer; }
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white; }
 
 .book-landing {
   width: 27%; }

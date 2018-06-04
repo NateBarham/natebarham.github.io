@@ -2,6 +2,12 @@
 layout: page
 title: Pronunciation Guide
 permalink: /pronunciation/
+mobile_link_1: /vladvir/
+mobile_link_name_1: The World of Vladvir
+mobile_link_2: /locations/
+mobile_link_name_2: Locations
+mobile_link_3: /pronunciation/
+mobile_link_name_3: Pronunciation Guide
 --- 
 
 When I set out to write *Alora’s Tear*, I took care in choosing names with meaning, sometimes direct, as clearly translated from their original languages as I could manage, other times personally meaningful or historically or societally through the world’s fiction. Above all, I desired the names of things in my work to feel like a part of the world they come from—familiar and at the same time foreign.

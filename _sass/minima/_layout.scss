@@ -137,70 +137,6 @@
   }
 }
 
-.mobile-nav {
-	background: $green-color-dark;
-	width: 100%;
-	margin: 0;
-	padding-top: 6px;
-	padding-bottom: 6px;
-	padding-left: 0px;
-	padding-right: 0px;
-	border: none;
-	color: lighten($text-color, 90%);
-	text-align: center;
-	display: none;
-	
-	@include media-query($on-palm) {
-		display: inline;
-	}
-	
-	.buy-button {
-		font-family: Quattrocento Sans;
-		font-weight: 700;
-  		color: lighten($text-color, 90%);
-    	font-size: $base-font-size * 1.2;
-    	line-height: $base-line-height;
-    	margin-left: 28px;
-  }
-}
-
-	.mobile-select {
-		@include relative-font-size(1.2);
-		font-family: Quattrocento Sans;
-		font-weight: 700;
-		width: 106px;
-		background: $green-color-dark;
-		color: lighten($text-color, 90%);
-		border: none;
-		padding-left: 4px;
-		padding-right: 4px;
-		-webkit-appearance: none;
-		-moz-appearance: none; 
-		    /* needed for Firefox: */
-    		overflow:hidden;
-	}
-	
-	.mobile-links {
-		padding-top: $spacing-unit * .6;
-		margin-top: $spacing-unit * .25;
-		margin-bottom: $spacing-unit *.6;
-		border-top: 2px solid $green-color;
-	
-		font-family: Quattrocento Sans;
-		font-weight: 700;
-		text-align: center;
-		text-decoration: underline;
-		color: $green-color;
-		font-size: $base-font-size * 1.15;
-		letter-spacing: -1px;
-    	line-height: $base-line-height;
-    	display: none;
-    	
-    	@include media-query($on-palm) {
-    		display: block;
-    	}
-	}
-
   .main-nav,
   .drop-nav {
     background: $green-color-dark;
@@ -234,7 +170,7 @@
 }
 
 .drop-nav {
-  position: relative;
+  position: absolute;
   display: none;
 }
   .drop-nav a {
@@ -263,6 +199,74 @@
     position: absolute;
     display: block;
   }
+
+
+/**
+ * Mobile Navigation
+ */  
+.mobile-nav {
+	background: $green-color-dark;
+	width: 100%;
+	margin: 0;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 0px;
+	padding-right: 0px;
+	border: none;
+	color: lighten($text-color, 90%);
+	text-align: center;
+	display: none;
+	
+	@include media-query($on-palm) {
+		display: inline;
+	}
+	
+	.buy-button {
+		font-family: Quattrocento Sans;
+		font-weight: 700;
+  		color: lighten($text-color, 90%);
+    	font-size: $base-font-size * 1.2;
+    	line-height: $base-line-height;
+    	margin-left: 28px;
+	}
+}
+
+	.mobile-select {
+		@include relative-font-size(1.2);
+		font-family: Quattrocento Sans;
+		font-weight: 700;
+		width: 106px;
+		background: $green-color-dark;
+		color: lighten($text-color, 90%);
+		border: none;
+		padding-left: 4px;
+		padding-right: 4px;
+		-webkit-appearance: none;
+		-moz-appearance: none; 
+		    /* needed for Firefox: */
+    		overflow:hidden;
+	}
+	
+	.mobile-links {
+		padding-top: $spacing-unit * .6;
+		margin-top: $spacing-unit * .25;
+		margin-bottom: $spacing-unit *.6;
+		border-top: 2px solid $green-color;
+	
+		font-family: Quattrocento Sans;
+		font-weight: 700;
+		text-align: center;
+		text-decoration: underline;
+		color: $green-color;
+		font-size: $base-font-size * 1.15;
+		letter-spacing: -1px;
+    	line-height: $base-line-height;
+    	
+    	
+    	@include media-query($on-palm) {
+    		display: block;
+    	}
+	}
 
 
 /**
@@ -296,6 +300,41 @@
   left: 50%;
   padding: 0;
  }
+ 
+ .hero-image {
+  background-image: url("/assets/images/fragments.jpg");
+  height: 25vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  line-height: 1.1em;
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 5px 12px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
 
  .book-landing {
   width: 27%;
