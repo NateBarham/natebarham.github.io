@@ -461,7 +461,8 @@ table {
   @media screen and (max-width: 580px) {
     .hero-text {
       font-size: 36px;
-      padding-bottom: 7.5px; } }
+      padding-bottom: 7.5px;
+      padding-left: 0; } }
 
 .hero-quote {
   font-size: 20px;
