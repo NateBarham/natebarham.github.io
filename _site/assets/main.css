@@ -84,7 +84,7 @@ a {
   color: #2a6417;
   text-decoration: none; }
   a:visited {
-    color: #424242; }
+    color: #2a6417; }
   a:hover {
     color: #2a6417;
     text-decoration: underline; }
@@ -440,35 +440,45 @@ table {
   padding: 0; }
 
 .hero-image {
-  background-image: url("/assets/images/fragments.jpg");
-  height: 25vw;
+  height: 45vw;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative; }
 
 .hero-text {
+  font-size: 60px;
   text-align: center;
   line-height: 1.1em;
   position: absolute;
   top: 50%;
   left: 25%;
+  max-width: 40%;
   transform: translate(-50%, -50%);
-  color: white; }
+  color: white;
+  padding-bottom: 15px;
+  padding-left: 30px; }
+  @media screen and (max-width: 580px) {
+    .hero-text {
+      font-size: 36px;
+      padding-bottom: 7.5px; } }
 
-.hero-text button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 5px 12px;
-  color: black;
-  background-color: #ddd;
-  text-align: center;
-  cursor: pointer; }
+.hero-quote {
+  font-size: 20px;
+  line-height: 2; }
+  @media screen and (max-width: 580px) {
+    .hero-quote {
+      font-size: 15px; } }
 
-.hero-text button:hover {
-  background-color: #555;
-  color: white; }
+.hero-hr {
+  margin-top: 7.5px;
+  margin-bottom: 22.5px;
+  border-style: solid;
+  noshade: true; }
+  @media screen and (max-width: 580px) {
+    .hero-hr {
+      margin-top: 4.5px;
+      margin-bottom: 10.5px; } }
 
 .book-landing {
   width: 27%; }

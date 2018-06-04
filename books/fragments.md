@@ -1,10 +1,17 @@
 ---
-layout: page
+layout: buy
 title: Fragments
 permalink: /books/fragments/
-mobile_link_1: 
+
+hero_image: /assets/images/volume 1 wide.jpg
+
+quote_1:
+quote_2:
+quote_3:
+
+mobile_link_1: https://www.etsy.com/listing/291991481/aloras-tear-vol-i-fragments-signed-and
 mobile_link_name_1: Paperback 
-mobile_link_2: 
+mobile_link_2: https://geo.itunes.apple.com/us/book/fragments/id900944776?mt=11&at=11l6a8 
 mobile_link_name_2: iBooks
 mobile_link_3: https://amzn.to/2sDNs5R
 mobile_link_name_3: Kindle

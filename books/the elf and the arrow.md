@@ -1,13 +1,20 @@
 ---
-layout: page
+layout: buy
 title: The Elf and the Arrow
 permalink: /books/the elf and the arrow/
-mobile_link_1: /books/
-mobile_link_name_1: Books
-mobile_link_2: 
-mobile_link_name_2: 
-mobile_link_3: 
-mobile_link_name_3: 
+
+hero_image: /assets/images/volume 2 wide.jpg
+
+quote_1: 
+quote_2: 
+quote_3: 
+
+mobile_link_1: https://www.etsy.com/listing/278589960/aloras-tear-vol-ii-the-elf-and-the-arrow
+mobile_link_name_1: Paperback 
+mobile_link_2: https://geo.itunes.apple.com/us/book/the-elf-and-the-arrow/id969812772?mt=11&at=11l6a8 
+mobile_link_name_2: iBooks
+mobile_link_3: https://amzn.to/2sG5cxt
+mobile_link_name_3: Kindle
 ---
 
 ## Chapter I

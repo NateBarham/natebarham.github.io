@@ -3,15 +3,21 @@
 
   {%- include head.html -%}
 
+<style>
+.hero-image {
+  background-image: url("{{ page.hero_image | escape }}");
+}
+</style>
+
   <body>
 
     {%- include header.html -%}
 		<div class="hero-image">
-			<div class="hero-text">
-				<h3>Fragments</h3>
-				<button>Paperback</button>
-				<button>iBooks</button>
-				<button><a href="https://amzn.to/2sDNs5R">Kindle</a></button>
+			<ul class="hero-text">
+				{{ page.title | escape }}
+				<li><p class="hero-quote">{{ page.quote_1 | escape }}</p></li>
+				<li><p class="hero-quote">{{ page.quote_2 | escape }}</p></li>
+				<li><p class="hero-quote">{{ page.quote_3 | escape }}</p></li>
 		  	</div>
 		</div>
 
