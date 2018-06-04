@@ -460,6 +460,7 @@ table {
   padding-left: 30px; }
   @media screen and (max-width: 580px) {
     .hero-text {
+      display: none;
       font-size: 24px;
       padding-bottom: 7.5px;
       padding-left: 0; } }
