@@ -2,7 +2,7 @@
 layout: post
 title:  Official Facebook Page
 date:   2016-05-03 16:34:38 +0000
-categories: Alora's Tear
+categories: Publishing, Alora's Tear
 ---
 
 After two books and quite a bit of procrastination, Barham Ink and <i>Alora's Tear</i>&nbsp;finally have an <a href="http://facebook.com/barhamink">official home on Facebook</a>. As with anything related to my writing, thanks so much for the support.
