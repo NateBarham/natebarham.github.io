@@ -7,12 +7,14 @@ layout: landing-page
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
+  
   <center>
+  	<h2 class="page-title">NEWS</h2>
     <h2 class="post-list-heading"></h2>
   </center>
 
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {% for post in site.posts limit:5 %}
       <li>
       	<h1 class="post-title"><a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -30,5 +32,9 @@ layout: landing-page
       {%- endfor -%}
     </ul>
   {%- endif -%}
+
+	<center>
+	<a class="mobile-links" href="/blog/" style="border-top: none;">More Stories...</a>
+	</center>
 
 </div>
