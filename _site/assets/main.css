@@ -307,7 +307,7 @@ table {
   background: #2a6417; }
 
 .main-nav > li {
-  display: inline; }
+  display: inline-block; }
 
 .main-nav li:first-child {
   display: inline; }
