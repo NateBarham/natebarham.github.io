@@ -253,15 +253,13 @@
 		margin-bottom: $spacing-unit *.6;
 		border-top: 2px solid $green-color;
 	
-		font-family: Quattrocento Sans;
+		font-family: Quattrocento;
 		font-weight: 700;
 		text-align: center;
-		text-decoration: underline;
 		color: $green-color;
 		font-size: $base-font-size * 1.15;
 		letter-spacing: -1px;
     	line-height: $base-line-height;
-    	
     	
     	@include media-query($on-palm) {
     		display: block;
@@ -303,6 +301,7 @@
  
  .hero-image {
   height: 45vw;
+  z-index: -10;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

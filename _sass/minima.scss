@@ -20,9 +20,9 @@ $grey-color-light: lighten($grey-color, 20%) !default;
 $grey-color-link:  darken($grey-color, 25%) !default;
 $grey-color-dark:  darken($grey-color, 35%) !default;
 
-$green-color:       #3c8e20;
-$green-color-light: lighten($grey-color, 5%);
-$green-color-dark:  darken($green-color, 10%);
+$green-color-dark:  #176619;
+$green-color:       lighten($green-color-dark, 5%);
+$green-color-light: lighten($green-color, 5%);
 
 $blue-color:		#050f3d;
 

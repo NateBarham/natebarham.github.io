@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: page_no_links
 title: 
 permalink: /books/
-mobile_link_1: /books/
-mobile_link_name_1: Books
+mobile_link_1:
+mobile_link_name_1:
 mobile_link_2: 
 mobile_link_name_2: 
 mobile_link_3: 

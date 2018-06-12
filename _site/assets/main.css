@@ -81,12 +81,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a6417;
+  color: #176619;
   text-decoration: none; }
   a:visited {
-    color: #2a6417; }
+    color: #176619; }
   a:hover {
-    color: #2a6417;
+    color: #176619;
     text-decoration: underline; }
   .social-media-list a:hover {
     text-decoration: none; }
@@ -205,7 +205,7 @@ table {
   padding-top: 67.5px;
   padding-bottom: 3px;
   margin-bottom: 2px;
-  border-bottom: 2px solid #3c8e20;
+  border-bottom: 2px solid #1c7b1e;
   min-height: 0px;
   position: relative; }
 
@@ -213,15 +213,15 @@ table {
   font-size: 64.5px;
   font-family: Adelle, Quattrocento, sans-serif;
   font-weight: 900;
-  color: #2a6417;
+  color: #176619;
   text-transform: uppercase;
   line-height: 36px;
   letter-spacing: -1px;
   margin: 0; }
   .site-title, .site-title:visited {
-    color: #2a6417; }
+    color: #176619; }
   .site-title:hover {
-    color: #2a6417;
+    color: #176619;
     text-decoration: none; }
   @media screen and (max-width: 580px) {
     .site-title {
@@ -231,7 +231,7 @@ table {
 .site-nav {
   font-family: Quattrocento Sans;
   font-weight: 700;
-  background: #2a6417;
+  background: #176619;
   border-top: 1px solid #292929;
   border-bottom: 0px solid #292929;
   padding: 6px;
@@ -291,7 +291,7 @@ table {
 .main-nav {
   font-family: Quattrocento Sans;
   font-weight: 700;
-  background: #2a6417;
+  background: #176619;
   border-top: 1px solid #292929;
   border-bottom: 0px solid #292929;
   padding: 6px;
@@ -303,7 +303,7 @@ table {
 
 .main-nav,
 .drop-nav {
-  background: #2a6417; }
+  background: #176619; }
 
 .main-nav > li {
   display: inline-block; }
@@ -355,7 +355,7 @@ table {
  * Mobile Navigation
  */
 .mobile-nav {
-  background: #2a6417;
+  background: #176619;
   width: 100%;
   margin: 0;
   padding-top: 6px;
@@ -382,7 +382,7 @@ table {
   font-family: Quattrocento Sans;
   font-weight: 700;
   width: 106px;
-  background: #2a6417;
+  background: #176619;
   color: white;
   border: none;
   padding-left: 4px;
@@ -396,12 +396,11 @@ table {
   padding-top: 18px;
   margin-top: 7.5px;
   margin-bottom: 18px;
-  border-top: 2px solid #3c8e20;
-  font-family: Quattrocento Sans;
+  border-top: 2px solid #1c7b1e;
+  font-family: Quattrocento;
   font-weight: 700;
   text-align: center;
-  text-decoration: underline;
-  color: #3c8e20;
+  color: #1c7b1e;
   font-size: 23px;
   letter-spacing: -1px;
   line-height: 1.5; }
@@ -440,6 +439,7 @@ table {
 
 .hero-image {
   height: 45vw;
+  z-index: -10;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -507,7 +507,7 @@ table {
 .bar {
   max-width: 100%;
   height: 42px;
-  background-color: #2a6417;
+  background-color: #176619;
   display: inline;
   text-align: center; }
   @media screen and (max-width: 580px) {
@@ -530,7 +530,7 @@ table {
  * Site footer
  */
 .site-footer {
-  border-top: 2px solid #3c8e20;
+  border-top: 2px solid #1c7b1e;
   padding: 30px 0; }
 
 .footer-heading {
@@ -604,7 +604,7 @@ table {
 .page-heading {
   font-size: 40px;
   font-variant: small-caps;
-  border-bottom: 3px solid #3c8e20; }
+  border-bottom: 3px solid #1c7b1e; }
 
 .post-list-heading {
   font-size: 40px;
@@ -613,7 +613,7 @@ table {
   letter-spacing: -2px;
   margin-top: 7.5px;
   margin-bottom: 30px;
-  border-bottom: 2px solid #3c8e20; }
+  border-bottom: 2px solid #1c7b1e; }
 
 .post-list {
   margin-left: 0;
@@ -687,7 +687,7 @@ table {
   .post-content hr {
     margin-top: 33px;
     margin-bottom: 30px;
-    color: #3c8e20;
+    color: #1c7b1e;
     border-style: solid;
     size: 1px;
     noshade: true; }
