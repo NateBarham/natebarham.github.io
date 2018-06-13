@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-title: 
+title: Books
 permalink: /books/
 mobile_link_1:
 mobile_link_name_1:
@@ -9,6 +9,7 @@ mobile_link_name_2:
 mobile_link_3: 
 mobile_link_name_3: 
 ---
+
 [Volume I - Fragments](/books/fragments/)
 
 [Volume II - The Elf and the Arrow](/books/the elf and the arrow/)
