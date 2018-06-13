@@ -10,7 +10,7 @@ mobile_link_3: /the-site/
 mobile_link_name_3: Site Details
 ---
 
-This site uses a modified (significantly, if you ask me) version of Minima—the base Jekyll theme. Jekyll is an amazing tool for generating static websites like BarhamInk.com. For those who are curious, that means everything about the site is faster and more efficient. There is virtually no javascript to slow down your browser or soak your battery life. And, using some other fantastic, open-source tools, I'm now able to serve the site to you at no cost to me, which means more of the proceeds from *Alora's Tear* can go towards making more books and making those products even better. 
+This site uses a modified (significantly, if you ask me) version of Minima—the base Jekyll theme. Jekyll is an amazing tool for generating static websites like BarhamInk.com. For those who are curious, that means everything about the site is faster and more efficient. There is virtually no javascript to slow down your browser or soak your battery life. And, using some other fantastic, open-source tools, I'm now able to serve the site to you at no cost to me, which means more of the proceeds from *Alora's Tear* can go towards making books and improving product quality. 
 
 Lastly, and of fairly great personal importance, Jekyll allows me to customize the site exactly how I want it. And that level of control is not only better for my meticulous personality, but for you, the reader. Text is easier to read, larger and more consistent across desktop and mobile. Fonts are hand-picked to match my personality and that of the books.
 
