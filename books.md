@@ -14,7 +14,7 @@ mobile_link_name_3:
 
 [Volume II - The Elf and the Arrow](/books/the elf and the arrow/)
 
-[Volume III - THe Voice like Water](/books/the voice like water/)
+[Volume III - The Voice like Water](/books/the voice like water/)
 
 [Volume IV - Circlets and Seekers](/books/circlets and seekers/) (Coming Summer 2018)
 
