@@ -11,7 +11,6 @@ mobile_link_name_3:
 ---
 
 <center>
-<h5>(Click to see purchase options and an excerpt.)</h5>
 <a href="/books/fragments/"><img class="books-page" src="/assets/images/fragments.jpg" alt="Fragments Cover"></a>
 <a href="/books/the elf and the arrow/"><img class="books-page" src="/assets/images/the elf and the arrow.jpg" alt="The Elf and the Arrow Cover"></a>
 <a href="/books/the voice like water/"><img class="books-page-last" src="/assets/images/the voice like water.jpg" alt="The Voice like Water Cover" style="padding-right: 5px;"></a>
