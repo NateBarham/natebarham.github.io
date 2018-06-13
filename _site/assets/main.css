@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 20px/1.5 Quattrocento, Palating, Garamond, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #333;
+  color: #1c1c1c;
   background-color: #ffffff;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -99,8 +99,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #828282;
-  border-left: 4px solid #b5b5b5;
+  color: #1c1c1c;
+  border-left: 4px solid #292929;
   padding-left: 30px;
   font-size: 18px;
   font-style: italic; }
@@ -113,7 +113,7 @@ blockquote {
 pre,
 code {
   font-size: 18.75px;
-  border: 1px solid #b5b5b5;
+  border: 1px solid #292929;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -132,8 +132,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(760px - (30px * 2));
-  max-width: calc(760px - (30px * 2));
+  max-width: -webkit-calc(700px - (30px * 2));
+  max-width: calc(700px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-top: 0;
@@ -142,8 +142,8 @@ pre {
   padding-left: 30px; }
   @media screen and (max-width: 760px) {
     .wrapper {
-      max-width: -webkit-calc(760px - (30px));
-      max-width: calc(760px - (30px));
+      max-width: -webkit-calc(700px - (30px));
+      max-width: calc(700px - (30px));
       margin-right: auto;
       margin-left: auto;
       padding-right: 15px;
@@ -164,7 +164,7 @@ pre {
   width: 16px;
   height: 16px;
   display: inline-block;
-  fill: #828282;
+  fill: #1c1c1c;
   padding-right: 16px;
   vertical-align: text-top; }
   @media screen and (max-width: 580px) {
@@ -184,19 +184,19 @@ table {
   margin-bottom: 30px;
   width: 100%;
   text-align: left;
-  color: #616161;
+  color: #4a4a4a;
   border-collapse: collapse;
-  border: 1px solid #b5b5b5; }
+  border: 1px solid #292929; }
   table tr:nth-child(even) {
-    background-color: #c4c4c4; }
+    background-color: #383838; }
   table th, table td {
     padding: 10px 15px; }
   table th {
-    background-color: #bdbdbd;
-    border: 1px solid #ababab;
-    border-bottom-color: #969696; }
+    background-color: #303030;
+    border: 1px solid #1f1f1f;
+    border-bottom-color: #0a0a0a; }
   table td {
-    border: 1px solid #b5b5b5; }
+    border: 1px solid #292929; }
 
 /**
  * Site header
@@ -232,8 +232,8 @@ table {
   font-family: Quattrocento Sans;
   font-weight: 700;
   background: #176619;
-  border-top: 1px solid #292929;
-  border-bottom: 0px solid #292929;
+  border-top: 1px solid #030303;
+  border-bottom: 0px solid #030303;
   padding: 6px;
   margin-bottom: 0; }
   .site-nav .nav-trigger {
@@ -252,7 +252,7 @@ table {
       top: 9px;
       right: 15px;
       background-color: #ffffff;
-      border: 1px solid #b5b5b5;
+      border: 1px solid #292929;
       border-radius: 5px;
       text-align: right; }
       .site-nav label[for="nav-trigger"] {
@@ -271,7 +271,7 @@ table {
         padding-top: 10px;
         text-align: center; }
         .site-nav .menu-icon > svg {
-          fill: #292929; }
+          fill: #030303; }
       .site-nav input ~ .trigger {
         clear: both;
         display: none; }
@@ -292,8 +292,8 @@ table {
   font-family: Quattrocento Sans;
   font-weight: 700;
   background: #176619;
-  border-top: 1px solid #292929;
-  border-bottom: 0px solid #292929;
+  border-top: 1px solid #030303;
+  border-bottom: 0px solid #030303;
   padding: 6px;
   margin-bottom: 0;
   text-align: center; }
@@ -355,8 +355,8 @@ table {
   font-family: Quattrocento Sans;
   font-weight: 700;
   background: #176619;
-  border-top: 1px solid #292929;
-  border-bottom: 0px solid #292929;
+  border-top: 1px solid #030303;
+  border-bottom: 0px solid #030303;
   padding: 6px;
   margin-bottom: 0;
   text-align: center; }
@@ -447,8 +447,8 @@ table {
   line-height: 0px;
   font-size: 0;
   background: #050f3d;
-  border-top: 1px solid #292929;
-  border-bottom: 0px solid #292929;
+  border-top: 1px solid #030303;
+  border-bottom: 0px solid #030303;
   margin-bottom: 0;
   padding: 18px;
   max-width: 100%;
@@ -550,7 +550,7 @@ table {
   position: relative;
   top: 5px;
   font-size: 46px;
-  color: #e8e8e8;
+  color: #5c5c5c;
   transform: scaleY(0.5);
   transform-origin: 0 0;
   opacity: 0.6; }
@@ -655,7 +655,7 @@ table {
 
 .post-meta {
   font-size: 15.5px;
-  color: #828282; }
+  color: #1c1c1c; }
 
 .post-link {
   font-variant: small-caps;
