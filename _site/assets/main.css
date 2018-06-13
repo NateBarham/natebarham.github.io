@@ -550,7 +550,7 @@ table {
   position: relative;
   top: 5px;
   font-size: 46px;
-  color: #5c5c5c;
+  color: white;
   transform: scaleY(0.5);
   transform-origin: 0 0;
   opacity: 0.6; }

@@ -434,7 +434,7 @@
     position: relative;
     top: 5px;
     font-size: $base-font-size * 2.3;
-    color: lighten($grey-color-light, 20%);
+    color: lighten($text-color, 90%);
     transform: scaleY(0.5);
     transform-origin: 0 0;
     opacity: 0.6;
