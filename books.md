@@ -1,5 +1,5 @@
 ---
-layout: page_no_links
+layout: landing-page
 title: 
 permalink: /books/
 mobile_link_1:
@@ -9,16 +9,13 @@ mobile_link_name_2:
 mobile_link_3: 
 mobile_link_name_3: 
 ---
+[Volume I - Fragments](/books/fragments/)
 
-<center>
-<a href="/books/fragments/"><img class="books-page" src="/assets/images/fragments.jpg" alt="Fragments Cover"></a>
-<a href="/books/the elf and the arrow/"><img class="books-page" src="/assets/images/the elf and the arrow.jpg" alt="The Elf and the Arrow Cover"></a>
-<a href="/books/the voice like water/"><img class="books-page-last" src="/assets/images/the voice like water.jpg" alt="The Voice like Water Cover" style="padding-right: 5px;"></a>
-</center>
+[Volume II - The Elf and the Arrow](/books/the elf and the arrow/)
 
-----
+[Volume III - THe Voice like Water](/books/the voice like water/)
 
-[Volume IV - Circlets and Seekers](/volume 4/)
+[Volume IV - Circlets and Seekers](/books/circlets and seekers/) (Coming Summer 2018)
 
 [Volume V](/books/) (Title & Release Date TBD)
 
