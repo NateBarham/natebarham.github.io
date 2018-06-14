@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 20px/1.5 Quattrocento, Palating, Garamond, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 20px/1.55 Quattrocento, Palating, Garamond, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #1c1c1c;
   background-color: #ffffff;
   -webkit-text-size-adjust: 100%;
@@ -215,7 +215,7 @@ table {
   font-weight: 900;
   color: #176619;
   text-transform: uppercase;
-  line-height: 36px;
+  line-height: 37.2px;
   letter-spacing: -1px;
   margin: 0; }
   .site-title, .site-title:visited {
@@ -226,7 +226,7 @@ table {
   @media screen and (max-width: 580px) {
     .site-title {
       font-size: 60px;
-      line-height: 42px; } }
+      line-height: 43.4px; } }
 
 .site-nav {
   font-family: Quattrocento Sans;
@@ -243,7 +243,7 @@ table {
   .site-nav .page-link {
     color: white;
     font-size: 25px;
-    line-height: 1.5; }
+    line-height: 1.55; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
   @media screen and (max-width: 580px) {
@@ -314,7 +314,7 @@ table {
 .main-nav a {
   color: white;
   font-size: 25px;
-  line-height: 1.5;
+  line-height: 1.55;
   margin-right: 15px;
   display: inline-block; }
   .main-nav a:not(:last-child) {
@@ -323,7 +323,7 @@ table {
 .dropdown {
   color: white;
   font-size: 25px;
-  line-height: 1.5;
+  line-height: 1.55;
   position: relative;
   margin-right: 15px; }
 
@@ -376,7 +376,7 @@ table {
 .buy-nav a {
   color: white;
   font-size: 25px;
-  line-height: 1.5;
+  line-height: 1.55;
   margin-right: 30px;
   display: inline-block; }
   .buy-nav a:not(:last-child) {
@@ -405,7 +405,7 @@ table {
     font-weight: 700;
     color: white;
     font-size: 24px;
-    line-height: 1.5;
+    line-height: 1.55;
     margin-left: 28px; }
 
 .mobile-select {
@@ -434,7 +434,7 @@ table {
   color: #1c7b1e;
   font-size: 23px;
   letter-spacing: -1px;
-  line-height: 1.5;
+  line-height: 1.55;
   display: none; }
   @media screen and (max-width: 580px) {
     .mobile-links {
