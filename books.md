@@ -21,7 +21,7 @@ mobile_link_name_3:
 
 [Volume III - The Voice like Water](/books/the voice like water/)
 
-[Volume IV - Circlets and Seekers](/books/circlets and seekers/) (Coming Summer 2018)
+[Volume IV - Circlets and Seekers](/books/circlets and seekers/) (Available Summer 2018)
 
 [Volume V](/books/) (Title & Release Date TBD)
 
