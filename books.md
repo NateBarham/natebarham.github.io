@@ -10,6 +10,11 @@ mobile_link_3:
 mobile_link_name_3: 
 ---
 
+<center>
+	<h2 class="page-title">BOOKS</h2>
+	<h2 class="post-list-heading"></h2>
+</center>
+
 [Volume I - Fragments](/books/fragments/)
 
 [Volume II - The Elf and the Arrow](/books/the elf and the arrow/)
