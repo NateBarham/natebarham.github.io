@@ -497,13 +497,6 @@ table {
       padding-bottom: 7.5px;
       padding-left: 0; } }
 
-.hero-quote {
-  font-size: 20px;
-  line-height: 2; }
-  @media screen and (max-width: 580px) {
-    .hero-quote {
-      font-size: 15px; } }
-
 .hero-hr {
   margin-top: 7.5px;
   margin-bottom: 22.5px;
@@ -653,6 +646,9 @@ table {
   list-style: none; }
   .post-list > li {
     margin-bottom: 30px; }
+  @media screen and (max-width: 580px) {
+    .post-list {
+      font-size: 18px; } }
 
 .post-meta {
   font-size: 15.5px;

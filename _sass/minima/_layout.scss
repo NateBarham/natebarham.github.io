@@ -369,15 +369,6 @@
   }
 }
 
-.hero-quote {
- @include relative-font-size(1);
- line-height: 2;
- 
- @include media-query($on-palm) {
-  @include relative-font-size(.75);
- }
-}
-
 .hero-hr {
  margin-top: $spacing-unit * .25;
  margin-bottom: $spacing-unit * .75;
@@ -565,6 +556,10 @@
 
   > li {
     margin-bottom: $spacing-unit;
+  }
+  
+  @include media-query($on-palm) {
+   @include relative-font-size(.9);
   }
 }
 
