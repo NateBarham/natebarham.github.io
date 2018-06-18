@@ -228,8 +228,8 @@ pre {
     vertical-align: text-top;
     
     @include media-query($on-palm) {
-    	transform: scale(2, 2);
-    	padding-top: 10px;
+    	transform: scale(1.5, 1.5);
+    	padding-top: 12px;
     	padding-right: 18px;
     	padding-left: 18px;
     }
