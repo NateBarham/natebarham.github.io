@@ -171,8 +171,8 @@ pre {
     .svg-icon {
       transform: scale(1.5, 1.5);
       padding-top: 12px;
-      padding-right: 18px;
-      padding-left: 18px; } }
+      padding-right: 16px;
+      padding-left: 16px; } }
 
 .social-media-list li + li {
   padding-top: 5px; }
