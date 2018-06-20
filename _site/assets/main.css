@@ -660,6 +660,12 @@ table {
   display: block;
   font-size: 35px; }
 
+.newsletter {
+  width: 65%; }
+  @media screen and (max-width: 580px) {
+    .newsletter {
+      width: 100%; } }
+
 /**
  * Posts
  */

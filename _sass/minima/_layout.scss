@@ -575,6 +575,13 @@
   @include relative-font-size(1.75)
 }
 
+ .newsletter {
+   width: 65%;
+   
+   @include media-query($on-palm) {
+   width: 100%;
+   }
+ }
 
 
 /**
