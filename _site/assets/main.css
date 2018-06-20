@@ -225,7 +225,7 @@ table {
     text-decoration: none; }
   @media screen and (max-width: 580px) {
     .site-title {
-      font-size: 60px;
+      font-size: 70px;
       line-height: 43.4px; } }
 
 .site-nav {

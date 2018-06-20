@@ -19,7 +19,7 @@ mobile_link_name_3: Kindle
 
 ## Prologue
 
-[Audio Version](/assets/audio/fragments-prologue.mp3/)
+[Audio Version](/assets/audio/fragments-prologue.mp3)
 
 THUNDER ROLLED ACROSS A DEEP VELVET SKY as distant as the grumbling of the gods, and to the young man hidden within the sticky needles of fir and spruce, just as irrelevant. When a sheet of scattered raindrops peppered the forest floor, he knew that the time had come. For several hours now, against orders and beyond help, Askon had lain silent and still as death, the scent of conifer swirling all about him. In the darkness and driving rain, his eyes—one green and one brilliant blue—burned with reflected firelight.
 

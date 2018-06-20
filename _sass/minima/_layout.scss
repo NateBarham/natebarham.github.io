@@ -32,7 +32,7 @@
     text-decoration: none;
   }
   @include media-query($on-palm) {
-  @include relative-font-size(3);
+  @include relative-font-size(3.5);
   line-height: $base-line-height * $base-font-size * 1.4;
   }
 }
