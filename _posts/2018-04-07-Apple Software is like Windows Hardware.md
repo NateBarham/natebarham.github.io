@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Critically Speaking
+title:  Apple Software is like Windows Hardware
 date:   2018-04-07 12:00:00 +0000
 categories: Apple
 ---
