@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Critically Speaking
+title: Critically Speaking
 date:   2018-06-04 12:00:00 +0000
 categories: Gaming
 ---
