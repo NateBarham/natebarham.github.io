@@ -382,10 +382,18 @@
 }
 
  .book-landing {
-  width: 27%;
+  width: 24%;
   
   	@include media-query($on-palm) {
-  		width: 33%;
+  		width: 50%;
+  	}
+ }
+ 
+ .banner {
+  width: 90%;
+  
+  	@include media-query($on-palm) {
+  		width: 100%;
   	}
  }
  
@@ -615,11 +623,13 @@
   	list-style-type: disc;
   	list-style-position: outside;
   	padding-left: 10%;
+  	margin-bottom: $spacing-unit * .5;
   }
   
   li {
   	margin-bottom: 6px;
   }
+  
   
   h2 {
   	margin-top: $spacing-unit * 1.5;
