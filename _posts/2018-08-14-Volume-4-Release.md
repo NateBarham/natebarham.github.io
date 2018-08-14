@@ -5,6 +5,8 @@ date:   2018-08-14 8:00:00 +0000
 categories: publishing
 ---
 
+![Circlets and Seekers Banner](/assets/images/vol4/volume 4 banner.jpg)
+
 It’s finally here. *Circlets and Seekers* is available now on all the popular digital platforms!
 
 You’ve followed Askon and his friends through the battle of their time, through Iramov and his dark army, through betrayal and surprise, through doubt and despair, and magic, because of course there is magic in Vladvir.
