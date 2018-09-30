@@ -13,8 +13,8 @@ mobile_link_1: https://geo.itunes.apple.com/us/book/circlets-and-seekers/id14225
 mobile_link_name_1: Apple Books
 mobile_link_2: https://amzn.to/2OpoyzY
 mobile_link_name_2: Kindle
-mobile_link_3: 
-mobile_link_name_3: Paperback (9/2018)
+mobile_link_3: https://www.etsy.com/shop/BarhamInk
+mobile_link_name_3: Paperback
 
 ---
 
