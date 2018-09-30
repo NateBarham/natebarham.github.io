@@ -11,7 +11,7 @@ I'm proud to announce that today, [Alora's Tear, Volume IV: Circlets and Seekers
 
 The best way to get a copy is to attend one of the events where I'll be selling the books in person. There, the prices are the lowest ($10 for Volume IV, and no shipping!) and I can sign it right there, with your name and custom inscription. Better yet, I get to thank you face-to-face for supporting my writing.
 
-If you won't be in the area, or just can't wait, visit the [Barham Ink Etsy Shop](https://www.etsy.com/shop/BarhamInk). Here, you can still get a custom, signed copy, for $10.99 plus shipping and it will arrive at your door.
+If you won't be in the area, or just can't wait, visit the [Barham Ink Etsy Shop](https://www.etsy.com/shop/BarhamInk). Here, you can still get a custom, signed copy, for $11.99 plus shipping and it will arrive at your door.
 
 Lastly, the series is also available on Amazon and other major online book retailers.
 
