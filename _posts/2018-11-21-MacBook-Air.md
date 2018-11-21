@@ -1,0 +1,40 @@
+---
+layout: post
+title:  Kit - MacBook Air
+date:   2018-11-15 0:00:00 +0000
+categories: Kit
+---
+
+![MacBook Air on Bench](/assets/images/MBA/bench.jpg)
+
+The 2018 MacBook Air: long awaited, much speculated, possibly destined to underwhelm tech reviewers everywhere thanks to Apple's principled stance on touchscreen Macs in a world of entry level ultrabook convertibles. To understand Apple's 2018 decisions, it's important to consider design ethos. Namely, what is a notebook computer? TLDR version: the 2018 MacBook Air.
+
+Let's start with the keyboard, generation three of the butterfly switch variety, which first appeared in the 12" Retina MacBook from 2015. Many people hate this keyboard. I don't. As an owner of that first little MacBook who used that keyboard to write the majority of my most recent novel, I'd go as far as to say I don't just not hate it, I love it. The 2018 version is better in every way. Response and click-feel is more obvious. Key depression requires just a bit more force, enhancing the feel further. And, though the key travel is the same, presses give a definite sense of greater depth. On top of it all, this version dampens some of the hollow sound found in version 2, but more importantly uses a silicone membrane to protect the mechanism from dust and other debris. For those who aren't enthusiasts with a preference for deep-travel mechanical keyboards (like they built'em in the '80s), the MacBook Air's implementation—like the company's marketing line for the device as a whole—will probably be one of Apple's most loved.
+
+The TouchID button, technically still part of the keyboard, but worthy of note on its own, makes way more sense as a standalone key than having it sit flush with the Touch Bar (whatever your feelings about that feature on the MacBook Pro) where it felt flimsy and cheap. On the MacBook Air, it maintains the same key stability as the rest of the keyboard while also being allowed to be an individual unit, rather than a strangely integrated appendage. Because I use an Apple Watch, and use its authentication, I don't encounter the need for TouchID very often. When it does appear, for purchases, installations, etc, it's very fast and has never failed (not once!).
+
+![MacBook Air with Logo and Keys](/assets/images/MBA/logo.jpg)
+
+There is one place the MacBook Air does fail to feel as premium as Apple's other notebook offerings, the screen. Don't get me wrong, this display is every bit as good as the 2015 Retina MacBook in sharpness, color, and brightness, but it doesn't achieve the P3 color gamut that most of Apple's screens do these days, and it *can* struggle a bit in bright sunlight. I also miss TrueTone. It's pretty surprising how seamlessly that feature works on iPhones, iPads, and the MacBook Pro. I actually went into Apple's color calibration tool and set the Air's white point to match my iPhone in the room where I do most of my work. Others wont need to go to these lengths, but if you're sensitive to subtle details, you'll want to take the couple of minutes to calibrate. Aside from this admittedly small critique, it's a lovely display, a Retina display, on a MacBook Air.
+
+The form factor is a nice combination of the razor thin MacBook and the Klondike Bar-ish MacBook Pro. The taper matters. The Air is much more comfortable to one-hand out of a bag and feels so much better when working (on desk or lap) because the wedge flows right down into the surface. It's smaller by volume than the old MacBook Air but not by as much as you might think, and it doesn't go as thin. I would have preferred Apple shave a little more thickness and a little more weight. My ideal would be 2.5 instead of 2.75 pounds and just a hair thinner. That said, it's definitely on the right side of thin and light vs the MacBook Pro.
+
+![MacBook Air Top Down](/assets/images/MBA/top.jpg)
+
+At the announcement I mistakenly thought the MacBook Air would be fanless like the MacBook; however, it does have a fan. The good news is that I've only been able to hear it once (with the initial Photos processing and Spotlight indexing process). The upper left corner became slightly warm to the touch at that point, but nothing like the egg-frying MacBook Pro temperatures. If you're using the Air for writing, research, watching videos, or even basic photo editing, it might as well be fanless. For those working the machine a bit harder, it's a more pleasant experience (though less performant of course) than a MacBook Pro at elevated fan speed under load.
+
+For my needs this heat and fan noise difference is well worth the tradeoff in performance. There's only one processor option for the MacBook Air (a 1.6ghz dual core with turbo boost up to 3.6ghz) and from what I've seen, I'll only notice the difference with heavy "walk away from it and get some coffee" tasks that would remain in that category on any other machine anyway. The more noticeable performance gains are in Apple's T2 "security" chip, in quotation marks because it doubles as the memory and disk controller, providing lightning fast SSD speed, and with it, overall system performance.
+
+There are two Thunderbolt 3 ports, which do everthing USB-C can do, plus all the great Thunderbolt features like eGPUs and high bandwidth storage connections. Coming from the single-port MacBook, it really is nice. I didn't need a second port, but I'm sure glad it's there now, if only to ease the worry of what if?
+
+Audio isn't something I usually think too much about when buying a new notebook, but the strides Apple has made here are significant. The most impressive (surprisingly, as I thought it was just marketing hype) is the wider stereo sound field. Music and effects seem almost to wrap around your head. There's still a directional sense that the sound is coming from the computer, but there's another sense that it is continuously radiating outward from the speaker grilles and expanding into the room. 
+
+![MacBook Air Splash](/assets/images/MBA/splash.jpg)
+
+Also, if you haven't used one of Apple's Force-Touch Trackpads yet, all I can say is you're in for a treat. There are few innovations from Apple in the last for years (especially in the Mac line) that are as impressive as the trackpad that feels like it's clicking even though it's entirely stationary. The MacBook Air version behaves much more like its smaller MacBook sibling, steering clear of the hollow, drum-like sound and feel of the Pro models. This is a good thing. The clicking effect is more pronounced and convincing, and the deep press (which brings up word definitions in MacOS) feels sturdier.
+
+Lastly, and in some ways most importantly, there's Apple's effort to make greener technology products. As a consumer and fan of their work, I'd be remiss if I didn't mention that this new MacBook Air is made of 100% recycled aluminum. By feel, there's no way to tell. The new alloy that Apple's engineers have developed has the same texture and apparent rigidity as any MacBook (or Powerbook before it). All with half the carbon footprint of its predecessor.
+
+![MacBook Air Front Lid](/assets/images/MBA/front.jpg)
+
+I'd argue that the last time Apple released a genuinely exciting notebook was the introduction of the 12" Retina MacBook in 2015. Since then, the MacBook Pro line has seemingly gone from stumble to stumble, finally righting itself with the Summer 2018 updates. But, it is the MacBook Air, the computer for everybody, that brings a little bit of that excitement again. It carries a price premium (as basically all Apple products do) but the experience of using a Mac, and a lightweight, solid, long-lasting one at that, will be worth it to anyone who has the curiosity and the cash. This is an excellent successor to the previous Air and just a great computer in general. If you love MacOS or want to switch to it, the MacBook Air is the go-to machine again. No question about it. 
