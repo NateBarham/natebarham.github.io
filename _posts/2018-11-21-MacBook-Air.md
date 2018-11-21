@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Kit - MacBook Air
-date:   2018-11-15 0:00:00 +0000
+date:   2018-11-21 0:00:00 +0000
 categories: Kit
 ---
 
