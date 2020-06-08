@@ -11,7 +11,7 @@ It is not a coincidental collection of mistakes, it is the result of a system th
 
 It is not “a few bad apples” but rather the oft forgotten spoiling of the whole barrel portion of that saying.
 
-Yes, it is the officer who kneels on black man’s neck. 
+Yes, it is the officer who kneels on a black man’s neck. 
 
 Yes, it is the officers who watch as that man begs to be allowed to breathe, officers who do nothing to stop a murder happening before their very eyes. 
 
@@ -30,9 +30,11 @@ And our system of policing, of governing, of existing as a society, does not tre
 I am taking steps in my own life to help make sure this changes. In addition, below I’ve provided links to some accounts that represent the kind of videos and essays that helped to grow my (still growing, still mistake-making) understanding of this issue.
 
 [Emmanuel Acho - Uncomfortable Conversations with a Black Man](https://youtu.be/h8jUA7JBkF4)
+
 [MKBHD - Reflecting on the Color of My Skin](https://youtu.be/o-_WXXVye3Y)
+
 [Henny tha Bizness - Being a Black Man in America](https://youtu.be/N_V4rYCOq7g)
+
 [Lavar Burton - This is My Story](https://youtu.be/MsGlBNDf64c)
-ab5c-79cef4d10368.html
 
 \#BlackLivesMatter
