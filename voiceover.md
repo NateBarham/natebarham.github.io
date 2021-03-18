@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Voiceover
+title: Voiceover Services
 permalink: /vo/
 mobile_link_1: /vo/
 mobile_link_name_1: Voiceover
 ---
 
-# Nate Barham
-## Voiceover Services
+
+## Nate Barham
 If you’re looking for a warm, smooth, personable tone, the voice of a teacher or trusted mentor, a bold hero, condescending villain, or a weathered elder, my recordings can provide these personas in addition to many more. I pride myself on quick feedback, professionalism, and flexibility. Feel free to contact me any time, and I’ll respond as soon as possible within the limits of my schedule. Thanks for considering my voice for your next project.
 
 ### Reels
