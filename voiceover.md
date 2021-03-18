@@ -1,8 +1,8 @@
 —
 layout: page
 title: Voiceover
-permalink: /VO/
-mobile_link_1: /VO/
+permalink: /vo/
+mobile_link_1: /vo/
 mobile_link_name_1: Voiceover
 — 
 
