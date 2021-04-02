@@ -28,6 +28,6 @@ Thanks for considering my voice for your next project!
 ### Home Studio Specs
 - Space: Carpeted Basement Office with 4’x5’ Sound Isolated and Acoustically Treated Booth
 - Microphone: Techzone Audio Products Stellar X2
-- Interface: Focusrite Scarlett Solo
+- Interface: Audient iD4 MKII
 - DAW: Adobe Audition, Reaper, Ferrite Recording Studio (iOS)
 - Computer: MacBook Air M1, iPad Pro
