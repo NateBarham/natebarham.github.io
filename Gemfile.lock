@@ -69,7 +69,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.15)
+  bundler (>= 2.2.10)
   jekyll (~> 3.8.4)
   minima!
 
