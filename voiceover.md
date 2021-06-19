@@ -14,6 +14,7 @@ Thanks for considering my voice for your next project!
 
 ### Reels
 - [General Booth Quality Demo](https://drive.google.com/file/d/1CtBwYPzsYT9uKHr0J_2l_VdpyKQcCkaJ/view?usp=sharing)
+- [Commercial Demo](https://drive.google.com/file/d/1kNspNrAihX6vPgvYPDmle0sXbqYJiIJ_/view?usp=sharing)
 - [Character Reel](https://drive.google.com/file/d/11peoGFoh1ykw0f9FeOWQyDFd_hGrmDnA/view?usp=sharing)
 
 ### Rates
@@ -21,6 +22,7 @@ Thanks for considering my voice for your next project!
 - Per hour and Per finished hour rates determined by project length and budget
 
 ### Social
+- [Fiverr](https://www.fiverr.com/share/W7P9j5)
 - [Twitter](twitter.com/natebarham)
 - [Casting Call Club](https://www.castingcall.club/m/NateBarham)
 - [Discord](https://discordapp.com/users/146834925201391616)
