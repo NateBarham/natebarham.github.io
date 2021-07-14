@@ -13,9 +13,9 @@ If you’re looking for a warm, smooth, personable tone, the voice of a teacher 
 Thanks for considering my voice for your next project!
 
 ### Reels
-- [General Booth Quality Demo](https://drive.google.com/file/d/1CtBwYPzsYT9uKHr0J_2l_VdpyKQcCkaJ/view?usp=sharing)
-- [Commercial Demo](https://drive.google.com/file/d/1kNspNrAihX6vPgvYPDmle0sXbqYJiIJ_/view?usp=sharing) - music by www.bensound.com
-- [Character Reel](https://drive.google.com/file/d/11peoGFoh1ykw0f9FeOWQyDFd_hGrmDnA/view?usp=sharing)
+- [General Booth Quality Demo](/assets/audio/BasicBoothDemo_NateBarham.mp3)
+- [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
+- [Character Reel](/assets/audio/CharacterReel_NateBarham.mp3)
 
 ### Rates
 - $2.50 Per Line with $100 minimum (negotiable based on project and budget)
