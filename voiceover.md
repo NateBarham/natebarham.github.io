@@ -13,11 +13,11 @@ If you’re looking for a warm, smooth, personable tone, the voice of a teacher 
 Thanks for considering my voice for your next project!
 
 ### Reels
+- [Character Reel](/assets/audio/CharacterDemo_NateBarham.mp3)
 - [General Booth Quality Demo](/assets/audio/BasicBoothDemo_NateBarham.mp3)
-- [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
 - [Audiobook Sample - Alora’s Tear, Fragments](/assets/audio/Fragments_Sample.mp3)
 - [Audiobook Sample - The Name of the Wind](/assets/audio/NotW_Sample.mp3)
-- [Character Reel](/assets/audio/CharacterReel_NateBarham.mp3)
+- [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
 
 ### Rates
 - $2.50 Per Line with $100 minimum (negotiable based on project and budget)
