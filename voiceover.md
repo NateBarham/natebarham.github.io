@@ -13,7 +13,7 @@ If you’re looking for a warm, smooth, personable tone, the voice of a teacher 
 Thanks for considering my voice for your next project!
 
 ### Reels
-- [Character Reel](/assets/audio/CharacterDemo_NateBarham.mp3)
+- [Character Demo](/assets/audio/CharacterDemo_NateBarham.mp3)
 - [General Booth Quality Demo](/assets/audio/BasicBoothDemo_NateBarham.mp3)
 - [Audiobook Sample - Alora’s Tear, Fragments](/assets/audio/Fragments_Sample.mp3)
 - [Audiobook Sample - The Name of the Wind](/assets/audio/NotW_Sample.mp3)
