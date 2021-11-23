@@ -19,11 +19,6 @@ Thanks for considering my voice for your next project!
 - [Audiobook Sample - The Name of the Wind](/assets/audio/NotW_Sample.mp3)
 - [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
 
-<audio controls>
-  <source src=“http://NateBarham.com/assets/audio/BasicBoothDemo_NateBarham.mp3” type=“audio/mpeg”>
-  Your browser does not support the audio element.
-</audio>
-
 ### Rates
 - $2.50 Per Line with $100 minimum (negotiable based on project and budget)
 - Per hour and Per finished hour rates determined by project length and budget
