@@ -19,8 +19,8 @@ Thanks for considering my voice for your next project!
 - [Audiobook Sample - The Name of the Wind](/assets/audio/NotW_Sample.mp3)
 - [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
 
-<audio controls preload=“none”>
-  <source src=“https://NateBarham.com/assets/audio/BasicBoothDemo_NateBarham.mp3” type=“audio/mpeg”>
+<audio controls>
+  <source src=“http://NateBarham.com/assets/audio/BasicBoothDemo_NateBarham.mp3” type=“audio/mpeg”>
   Your browser does not support the audio element.
 </audio>
 
