@@ -20,7 +20,7 @@ Thanks for considering my voice for your next project!
 - [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
 
 <audio controls>
-  <source src=“http://NateBarham.com/assets/audio/BasicBoothDemo_NateBarham.wav” type=“audio/mpeg”>
+  <source src=“/assets/audio/BasicBoothDemo_NateBarham.wav” type=“audio/mpeg”>
   Your browser does not support the audio element.
 </audio>
 
