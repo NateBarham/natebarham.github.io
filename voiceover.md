@@ -24,7 +24,6 @@ Thanks for considering my voice for your next project!
 - Per hour and Per finished hour rates determined by project length and budget
 
 ### Social
-- [Fiverr](https://www.fiverr.com/share/W7P9j5)
 - [Twitter](twitter.com/natebarham)
 - [Casting Call Club](https://www.castingcall.club/m/NateBarham)
 - [Discord](https://discordapp.com/users/146834925201391616)
