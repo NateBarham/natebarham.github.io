@@ -14,7 +14,10 @@ Thanks for considering my voice for your next project!
 
 ### Reels
 
-{% include youtube.html id=‘-824u5wwbPk’ %}
+<div class=“youtube-wrapper”>
+<iframe width=“560” height=“315” src=“https://www.youtube.com/embed/-824u5wwbPk” title=“YouTube video player” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe>
+</div>
+
 
 - [Character Demo](/assets/audio/CharacterDemo_NateBarham.mp3)
 - [General Booth Quality Demo](/assets/audio/BasicBoothDemo_NateBarham.mp3)
