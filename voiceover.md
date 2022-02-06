@@ -15,6 +15,8 @@ Thanks for considering my voice for your next project!
 
 ### Reels
 
+![Character Reel](https://www.youtube.com/embed/-824u5wwbPk){:style=“width: 33%;”}
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
 - [Character Demo](/assets/audio/CharacterDemo_NateBarham.mp3)
