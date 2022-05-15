@@ -14,9 +14,6 @@ If you’re looking for a warm, smooth, personable tone, the voice of a teacher 
 Thanks for considering my voice for your next project!
 
 ### Reels
-
-{% include youtubePlayer.html id=page.youtubeId %}
-
 - [General Booth Quality Demo](/assets/audio/BasicBoothDemo_NateBarham.mp3)
 - [Character Demo](/assets/audio/CharacterDemo_NateBarham.mp3)
 - [eLearning Sample](/assets/audio/eLearningSample_NateBarham.mp3)
@@ -25,8 +22,8 @@ Thanks for considering my voice for your next project!
 - [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
 
 ### Rates
-- $2.50 Per Line with $100 minimum (negotiable based on project and budget)
-- Per hour and Per finished hour rates determined by project length and budget
+- $2.50 Per Line with $30 Minimum (negotiable based on project and budget)
+- $150 Per Finished Hour (clean, error-free recording, no effects/production)
 
 ### Social
 - [Twitter](twitter.com/natebarham)
@@ -35,7 +32,7 @@ Thanks for considering my voice for your next project!
 
 ### Home Studio Specs
 - Space: Carpeted Basement Office with 4’x5’ Sound Isolated and Acoustically Treated Booth
-- Microphone: Techzone Audio Products Stellar X2
-- Interface: Audient iD4 MKII
+- Microphone: Lewitt LCT 540 Subzero, Techzone Audio Products Stellar X2
+- Interface: Audient iD4 MKII, Focusrite Scarlett Solo
 - DAW: Adobe Audition, Reaper, Ferrite Recording Studio (iOS)
 - Computer: MacBook Air M1, iPad Pro
