@@ -15,7 +15,7 @@ Thanks for considering my voice for your next project!
 
 ### Reels
 - [General Booth Quality Demo](/assets/audio/BasicBoothDemo_NateBarham.mp3)
-- [Character Demo](/assets/audio/CharacterDemo-NateBarham.mp3)
+- [Character Demo](/assets/audio/CharacterDemo-NateBarham.mp3) {% include embed-audio.html %}
 - [eLearning Sample](/assets/audio/eLearningSample_NateBarham.mp3)
 - [Audiobook Sample - Alora’s Tear, Fragments](/assets/audio/Fragments_Sample.mp3)
 - [Audiobook Sample - The Name of the Wind](/assets/audio/NotW_Sample.mp3)
@@ -37,4 +37,4 @@ Thanks for considering my voice for your next project!
 - DAW: Adobe Audition, Reaper, Ferrite Recording Studio (iOS)
 - Computer: MacBook Air M1, iPad Pro
 
-{% include embed-audio.html %}
+
