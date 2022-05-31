@@ -37,4 +37,4 @@ Thanks for considering my voice for your next project!
 - DAW: Adobe Audition, Reaper, Ferrite Recording Studio (iOS)
 - Computer: MacBook Air M1, iPad Pro
 
-{% include embed-audio.html src=“/assets/audio/CharacterDemo-NateBarham.mp3” %}
+{% include embed-audio.html %}
