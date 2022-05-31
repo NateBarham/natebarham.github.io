@@ -14,7 +14,8 @@ If you’re looking for a warm, smooth, personable tone, the voice of a teacher 
 Thanks for considering my voice for your next project!
 
 ### Reels
-[Character Demo](/assets/audio/CharacterDemo-NateBarham.mp3) {% include embed-audio.html %}
+[Character Demo](/assets/audio/CharacterDemo_NateBarham.mp3) 
+{% include CharacterDemoPlayer.html %}
 - [General Booth Quality Demo](/assets/audio/BasicBoothDemo_NateBarham.mp3)
 - [eLearning Sample](/assets/audio/eLearningSample_NateBarham.mp3)
 - [Audiobook Sample - Alora’s Tear, Fragments](/assets/audio/Fragments_Sample.mp3)
