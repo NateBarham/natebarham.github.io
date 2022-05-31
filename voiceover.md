@@ -38,10 +38,4 @@ Thanks for considering my voice for your next project!
 - Computer: MacBook Air M1, iPad Pro
 
  
-<audio controls>
-
-<source src=“/assets/audio/CharacterDemo_NateBarham.mp3” type=“audio/mpeg”>
-
-Your browser does not support the audio element.
-
-</audio>
+<audio controls><source src=“/assets/audio/CharacterDemo_NateBarham.mp3” type=“audio/mpeg”>Your browser does not support the audio element.</audio>
