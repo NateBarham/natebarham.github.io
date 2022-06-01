@@ -18,9 +18,13 @@ Thanks for considering my voice for your next project!
 {% include playerCharacterDemo.html %}
 [General Booth Quality Demo](/assets/audio/BasicBoothDemo_NateBarham.mp3)
 {% include playerRawAudioSample.html %}
+
 [eLearning Sample](/assets/audio/eLearningSample_NateBarham.mp3)
+
 [Audiobook Sample - Alora’s Tear, Fragments](/assets/audio/Fragments_Sample.mp3)
+
 [Audiobook Sample - The Name of the Wind](/assets/audio/NotW_Sample.mp3)
+
 [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
 
 ### Rates
