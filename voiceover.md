@@ -9,9 +9,15 @@ mobile_link_name_1: Voiceover
 
 
 ## Nate Barham
+
 If you’re looking for a warm, smooth, personable tone, the voice of a teacher or trusted mentor, a bold hero, condescending villain, or a weathered elder, my recordings can provide these personas in addition to many more. I pride myself on quick feedback, professionalism, and flexibility. Feel free to contact me any time, and I’ll respond as soon as possible within the limits of my schedule. 
 
 Thanks for considering my voice for your next project!
+
+### Contact
+- [Email](mailto:nate.barham@gmail.com)
+- [Discord](https://discordapp.com/users/Dietlama#7643)
+- [Twitter DM](https://twitter.com/NateBarham)
 
 ### Reels
 - [Character Demo](/assets/audio/CharacterDemo_NateBarham.mp3) 
