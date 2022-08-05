@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title:  An Update on Book V  
-date:   2022-08-05 16:00:00 +0000  
+date:   2022-08-05 13:00:00 +0000  
 categories: Publishing  
 ---
 
