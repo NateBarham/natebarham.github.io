@@ -31,7 +31,7 @@ Thanks for considering my voice for your next project!
 
 ### Rates
 - $2.50 Per Line with $30 Minimum (negotiable based on project and budget)
-- $150 Per Finished Hour (clean, error-free recording, no effects/production)
+- Per Finished Hour Rates upon Request (clean, error-free recording, no effects/production)
 
 ### Social
 - [Twitter](twitter.com/natebarham)
