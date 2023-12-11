@@ -17,10 +17,10 @@ facebook_username: barhamink
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 
-# Mastodon instances
-# mastodon:
-# - username: natebarham
-#   instance: wandering.shop
+Mastodon instances
+mastodon:
+- username: natebarham
+  instance: wandering.shop
 # - username: jekyll2
 #   instance: example.com
 
