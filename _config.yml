@@ -17,7 +17,7 @@ facebook_username: barhamink
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 
-Mastodon instances
+# Mastodon instances
 mastodon:
 - username: natebarham
   instance: wandering.shop
