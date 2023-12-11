@@ -34,7 +34,7 @@ Thanks for considering my voice for your next project!
 - Audiobooks and Narration: $300 Per Finished Hour (clean, error-free recording, no sound effects or music production)
 
 ### Social
-- [Mastodon](wandering.shop/natebarham)
+- [Mastodon](wandering.shop/@natebarham)
 - [Casting Call Club](https://www.castingcall.club/NateBarham)
 - [Discord](https://discordapp.com/users/146834925201391616)
 
