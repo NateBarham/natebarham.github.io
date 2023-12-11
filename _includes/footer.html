@@ -5,10 +5,9 @@
       
       <center>
         <h2 class="footer-heading"> Copyright &copy; {{ "now" | date: "%Y" }} Barham Ink</h2>
-        {%- if site.twitter_username -%}<a class="social-footer" href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a>{%- endif -%}
-        {%- if site.facebook_username -%}<a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a>{%- endif -%}
+        <a rel="me" href="https://wandering.shop/@NateBarham">Mastodon</a>
         {%- if site.rss -%}<a class="social-footer" href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg></a>{%- endif -%}
-        <a rel="me" href="https://wandering.shop/@NateBarham">Mastodon</a>  
+        {%- if site.facebook_username -%}<a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a>{%- endif -%}
       </center>
 
    <div class="footer-col-wrapper">
