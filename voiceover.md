@@ -30,8 +30,8 @@ Thanks for considering my voice for your next project!
 - [Commercial Demo](/assets/audio/Commercial Demo.mp3) - music by www.bensound.com
 
 ### Rates
-- Audio Drama and Video Games: $2.50 Per Line with $100 Minimum (negotiable based on project and budget)
-- Audiobooks and Narration: Per Finished Hour, Rates upon Request (clean, error-free recording, no effects/production)
+- Audio Drama and Video Games: $4 Per Line with $100 Minimum (negotiable based on project and budget)
+- Audiobooks and Narration: $300 Per Finished Hour (clean, error-free recording, no sound effects or music production)
 
 ### Social
 - [Twitter](twitter.com/natebarham)
