@@ -4,10 +4,6 @@ title: Thoughts on Baldur's Gate 3
 date: 2024-03-09 13:00:00 +0000
 categories: Gaming
 ---
-# Baldur’s Gate 3
-
-## Session Zero
-
 Only a fool would say that Baldur’s Gate 3 is anything less than a triumph. Made by an independent developer, largely under the shadow of Covid, the fact that it exists at all is somewhat of an anomaly in today’s gaming landscape. The game contains no battle passes, no in-app purchases, and no subscription. You buy the game, you play the game. That’s it.
 
 For me, that meant somewhere in the ballpark of 185 excellent hours roleplaying entertainment. To be accurate, about 35 of those were spent on my initial character, with whom I made some irreversible and ill-informed choices. As the end of Act 1 approached, I knew the full experience would be long and that those early choices would not be ones I could live with for the entirety of the game. I needed a fresh start. So I began again, immediately discovering *hours* of quests, dungeons, and secrets *in Act 1* that I hadn’t seen at all on my first try. This second character and I lived out the remainder of the adventure.
