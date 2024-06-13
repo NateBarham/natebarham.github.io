@@ -2,7 +2,7 @@
 layout: post
 title:  Volume IV Paperbacks
 date:   2018-09-30 8:00:00 +0000
-categories: publishing
+categories: Publishing
 ---
 
 ![Circlets and Seekers Paperback](/assets/images/vol4/circlets paperback.jpg)
