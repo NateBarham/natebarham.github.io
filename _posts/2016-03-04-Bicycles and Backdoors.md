@@ -2,7 +2,7 @@
 layout: post
 title:  Bicycles and Backdoors
 date:   2016-03-04 16:00:00 +0000
-categories: Apple, Politics
+categories: Apple
 ---
 
 Steve Jobs famously called the computer a “bicycle for the mind,” an extension of ourselves that would not only make life easier, but improve it. And although the idea began with the Macintosh, the device closest to this particular Jobs ideal didn’t arrive in earnest until the iPhone.
