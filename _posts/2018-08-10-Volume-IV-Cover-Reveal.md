@@ -2,7 +2,7 @@
 layout: post
 title:  Volume IV Cover Reveal
 date:   2018-08-10 8:00:00 +0000
-categories: publishing
+categories: Publishing
 ---
 
 On Tuesday, August 14th the second Alora's Tear trilogy begins. Today, enjoy the magnificent work of Isis Sousa and the back cover text for Volume IV, *Circlets and Seekers*. I'm excited to share the book with all of you, next week.
