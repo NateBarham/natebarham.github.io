@@ -2,7 +2,7 @@
 layout: post
 title:  Signed Copies on Etsy
 date:   2016-05-02 20:50:59 +0000
-categories: Alora's Tear
+categories: Alora'sTear
 ---
 
 Starting this week (yesterday, actually) signed, hand wrapped copies of <i>Fragments</i>&nbsp;and <i>The Elf and the Arrow</i> are again available for purchase, now through the Barham Ink shop on Etsy. Prior sales went through a different provider which meant higher prices and shipping costs, and that only one book or the other  could be offered for sale at any given time.
