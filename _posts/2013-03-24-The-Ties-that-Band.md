@@ -2,7 +2,7 @@
 layout: post
 title:  The Ties that Band
 date:   2013-03-24 16:00:00 +0000
-categories: Education, Music
+categories: Education
 ---
 
 *This article first appeared in [The Magazine] [a], Issue 8.* 
