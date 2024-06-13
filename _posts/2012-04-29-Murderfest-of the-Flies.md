@@ -2,7 +2,7 @@
 layout: post
 title:  Murderfest of the Flies
 date:   2012-04-29 11:00:00 +0000
-categories: Gaming, Politics
+categories: Gaming
 ---
 
 In the extensive [piece on Jonathan Blow](http://www.theatlantic.com/magazine/archive/2012/05/the-most-dangerous-gamer/8928/) for The Atlantic, [Taylor Clark](http://www.theatlantic.com/taylor-clark/) explores more than any one commentary could possibly cover. If you want to get lost in scathing critique of the mainstream gaming industry for several thousand words, I encourage you to read it. Also, *Braid* spoilers abound, so proceed with caution if you haven't played and/or finished it yet (I haven't).
