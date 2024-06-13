@@ -2,7 +2,7 @@
 layout: post
 title:  Black Lives Matter
 date:   2020-06-08 01:00:00 +0000
-categories: politics
+categories: Politics
 ---
 
 For many people (especially people who are white, like me, male, like me), it has taken too long to say, vocally, clearly, that the brutality of police in this country towards black people is unacceptable. 
