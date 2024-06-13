@@ -2,7 +2,7 @@
 layout: post
 title:  Guest Post on Helheimen Design
 date:   2016-08-07 15:05:00 +0000
-categories: Alora's Tear
+categories: Alora'sTear
 ---
 
 My brilliant cover artist, Isis Sousa, asked me to write a <a href="http://helheimendesign.blogspot.no/2016/08/aloras-tear-vol-iii-locations-guest.html">guest post for her blog</a> concerning the work we did on Volume III. Now, when I say <em>we</em>, I mean <em>she</em>, since the real magic happens on her side, while I pester her about the details: a slightly different shade here, a smirk instead of a smile, a new armor texture, none of which I could implement myself (seriously, it would be awful), but all of which she somehow manages to get just right before we are finished.
