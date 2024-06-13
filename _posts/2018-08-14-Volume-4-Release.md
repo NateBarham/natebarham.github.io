@@ -2,7 +2,7 @@
 layout: post
 title:  Volume IV Release Day!
 date:   2018-08-14 8:00:00 +0000
-categories: publishing
+categories: Publishing
 ---
 
 It’s finally here. *Circlets and Seekers* is available now on all the popular digital platforms!
