@@ -2,7 +2,7 @@
 layout: post
 title:  Volume IV Title
 date:   2018-06-15 18:00:00 +0000
-categories: Alora's Tear
+categories: Alora'sTear
 ---
 
 This summer, the second trilogy in the *Alora's Tear* series begins. For today, let's start with the title to book four.
