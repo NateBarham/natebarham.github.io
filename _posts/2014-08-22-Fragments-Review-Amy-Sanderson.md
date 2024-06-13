@@ -2,7 +2,7 @@
 layout: post
 title:  Fragments Review - Amy Sanderson
 date:   2014-08-22 00:12:02 +0000
-categories: Alora's Tear
+categories: Alora'sTear
 ---
 
 Over on her wonderfully titled blog, <a href="http://amysanderson.co.uk">Not All Those Who Wander</a>, Amy Sanderson (author of <a href="http://amysanderson.co.uk/sanguine/">Sanguine</a>) posted what—to my knowledge—is the first public review of <a href="/buy-the-book">Fragments</a>.
