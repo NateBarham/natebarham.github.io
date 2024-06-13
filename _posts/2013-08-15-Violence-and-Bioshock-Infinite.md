@@ -2,7 +2,7 @@
 layout: post
 title:  Violence and Bioshock Infinite
 date:   2013-08-15 16:00:00 +0000
-categories: Gaming, Politics
+categories: Gaming
 ---
 
 *Minor Spoilers for Bioshock Infinite's opening section*
