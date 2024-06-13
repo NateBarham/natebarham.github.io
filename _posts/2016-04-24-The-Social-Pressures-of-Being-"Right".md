@@ -2,7 +2,7 @@
 layout: post
 title:  The Social Pressures of being "Right"
 date:   2016-04-24 16:00:00 +0000
-categories: Apple, Politics
+categories: Tech
 ---
 
 Do you like Apple’s Retina MacBook? Do you still enjoy wearing an Apple Watch every day? Maybe you like the look of Tesla’s upcoming Model 3 or use your iPad Pro as a full-fledged computer.
