@@ -15,7 +15,24 @@ mobile_link_name_3:
 	<h2 class="post-list-heading"></h2>
 </center>
 
-[Volume I - Fragments](/books/fragments/)
+<html>
+<div style="border: 1px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
+    <div style="display: flex; flex: 45%; padding-right: 15px;">
+        <img src="https://image-hub-cloud.lightningsource.com/2011-04-01/Images/front_cover/x200/sku/0990596524.jpg?viewkey=5aa256e2f899aa68b84d8468a0c8145fe5ca2c28f618efc8d1715c0cb809e0ba" style="width: 96px; height: auto; align-self: flex-start;" />
+    </div>
+    <div style="flex: 55%;">
+        <div style="text-align: left; font: normal normal bold 16px/22px Open Sans; padding: 5px;">
+            Fragments: Alora's Tear, Volume I
+        </div>
+        <div style="text-align: left; font: italic normal normal 13px/18px Open Sans; padding: 5px;">
+             Barham, Nathan
+         </div>
+         <div>
+            <a href="https://shop.ingramspark.com/b/084?CMSgnMURATRmXEm0kMy3vDyX69HjAA3SSgmxB95rTzz" target="_blank" style="background: #FEBE10 0% 0% no-repeat padding-box; border-radius:8px; color:black; text-decoration:none; width: 163px; height: 34px; display: table-cell; text-align: center; vertical-align: middle; font: normal normal bold 16px/22px Open Sans;">Buy Now</a>
+         </div>
+    </div>
+</div></html>
+
 
 [Volume II - The Elf and the Arrow](/books/the elf and the arrow/)
 
