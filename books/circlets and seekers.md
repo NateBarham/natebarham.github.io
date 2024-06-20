@@ -9,12 +9,12 @@ quote_1:
 quote_2: 
 quote_3: 
 
-mobile_link_1: https://geo.itunes.apple.com/us/book/circlets-and-seekers/id1422535320?mt=11
-mobile_link_name_1: Apple Books
-mobile_link_2: https://amzn.to/2OpoyzY
-mobile_link_name_2: Kindle
-mobile_link_3: https://www.etsy.com/shop/BarhamInk
-mobile_link_name_3: Paperback
+mobile_link_1: https://shop.ingramspark.com/b/084?kMf7gQj38nRcGdB1ULw0xakq8JVgdLDquLiuOqjJ4Bz
+mobile_link_name_1: Paperback
+mobile_link_2: https://geo.itunes.apple.com/us/book/circlets-and-seekers/id1422535320?mt=11
+mobile_link_name_2: Apple Books
+mobile_link_3: https://amzn.to/2OpoyzY
+mobile_link_name_3: Kindle
 
 ---
 
