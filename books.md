@@ -16,7 +16,6 @@ mobile_link_name_3:
 </center>
 
 <html>
-<div style="border: 1px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
     <div style="display: flex; flex: 45%; padding-right: 15px;">
         <img src="https://image-hub-cloud.lightningsource.com/2011-04-01/Images/front_cover/x200/sku/0990596524.jpg?viewkey=5aa256e2f899aa68b84d8468a0c8145fe5ca2c28f618efc8d1715c0cb809e0ba" style="width: 96px; height: auto; align-self: flex-start;" />
     </div>
