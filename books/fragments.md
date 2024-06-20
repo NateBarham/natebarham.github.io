@@ -15,8 +15,6 @@ mobile_link_2: https://geo.itunes.apple.com/us/book/fragments/id900944776?mt=11&
 mobile_link_name_2: Apple Books
 mobile_link_3: https://amzn.to/2sDNs5R
 mobile_link_name_3: Kindle
-mobile_link_4: https://www.bookpeopleofmoscow.com
-mobile_link_name_4: Book People
 ---
 
 ## Prologue
