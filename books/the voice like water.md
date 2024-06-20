@@ -9,7 +9,7 @@ quote_1:
 quote_2: 
 quote_3: 
 
-mobile_link_1: https://www.etsy.com/listing/457524246/aloras-tear-vol-iii-the-voice-like-water
+mobile_link_1: https://shop.ingramspark.com/b/084?wtdKoxxeZr5tJrWHuoHuzDjwizPq1386TbJ9yLDnEYV
 mobile_link_name_1: Paperback 
 mobile_link_2: https://geo.itunes.apple.com/us/book/the-voice-like-water/id1131345135?mt=11&at=11l6a8
 mobile_link_name_2: Apple Books
