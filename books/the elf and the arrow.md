@@ -9,7 +9,7 @@ quote_1:
 quote_2: 
 quote_3: 
 
-mobile_link_1: https://www.etsy.com/listing/278589960/aloras-tear-vol-ii-the-elf-and-the-arrow
+mobile_link_1: https://shop.ingramspark.com/b/084?jAD4uY8GVokLVVYtMYkNCfaFelLGZoqEnRhPwtZHyE6
 mobile_link_name_1: Paperback 
 mobile_link_2: https://geo.itunes.apple.com/us/book/the-elf-and-the-arrow/id969812772?mt=11&at=11l6a8 
 mobile_link_name_2: Apple Books
