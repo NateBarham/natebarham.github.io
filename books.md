@@ -15,6 +15,7 @@ mobile_link_name_3:
 	<h2 class="post-list-heading"></h2>
 </center>
 
+<center>
 <html>
 <div style="border: 0px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
     <div style="display: flex; flex: 45%; padding-right: 15px;">
@@ -86,7 +87,7 @@ mobile_link_name_3:
          </div>
     </div>
 </div></html>
-
+</center>
 [Volume V](/books/) (Title & Release Date TBD)
 
 [Volume VI](/books/) (Title & Release Date TBD)
