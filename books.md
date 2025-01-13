@@ -86,12 +86,13 @@ mobile_link_name_3:
             <a href="https://shop.ingramspark.com/b/084?kMf7gQj38nRcGdB1ULw0xakq8JVgdLDquLiuOqjJ4Bz" target="_blank" style="background: #FEBE10 0% 0% no-repeat padding-box; border-radius:8px; color:black; text-decoration:none; width: 163px; height: 34px; display: table-cell; text-align: center; vertical-align: middle; font: normal normal bold 16px/22px Open Sans;">Buy Now</a>
          </div>
     </div>
-</div>
+</div></html>
 <div>
+<br/>
 
 [Volume V](/books/) (Title & Release Date TBD)
 
 [Volume VI](/books/) (Title & Release Date TBD)
+
 </div>
 </center>
-</html>
