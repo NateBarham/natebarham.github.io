@@ -87,6 +87,23 @@ mobile_link_name_3:
          </div>
     </div>
 </div></html>
+
+<html>
+<div style="border: 0px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
+    <div style="display: flex; flex: 45%; padding-right: 15px;">
+    </div>
+    <div style="flex: 55%;">
+        <div style="text-align: left; font: normal normal bold 16px/22px Open Sans; padding: 5px;">
+            Volume V
+        </div>
+        <div style="text-align: left; font: italic normal normal 13px/18px Open Sans; padding: 5px;">
+             Title & Release Date TBD
+         </div>
+         <div>
+         </div>
+    </div>
+</div></html>
+
 </center>
 
 <br/>
