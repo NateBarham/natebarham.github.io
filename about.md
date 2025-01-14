@@ -4,10 +4,10 @@ title: Nathan Barham
 permalink: /about/
 mobile_link_1: /about/
 mobile_link_name_1: Author
-mobile_link_2: /barhamink/
-mobile_link_name_2: Barham Ink
-mobile_link_3: /the-site/
-mobile_link_name_3: Site Details
+mobile_link_2: /the-site/
+mobile_link_name_2: Site Details
+mobile_link_3: 
+mobile_link_name_3: 
 ---
 
 ![Author Photo](/assets/images/nathan barham.jpg){:style="float: right; width: 33%; margin: 0 24px 18px 42px;"}
