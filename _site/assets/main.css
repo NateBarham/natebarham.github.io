@@ -508,7 +508,7 @@ table {
       margin-bottom: 10.5px; } }
 
 .book-landing {
-  width: 32.9%; }
+  width: 32%; }
   @media screen and (max-width: 580px) {
     .book-landing {
       width: 50%; } }
