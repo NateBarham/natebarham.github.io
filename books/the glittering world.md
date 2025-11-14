@@ -3,7 +3,7 @@ layout: buy
 title: The Glittering World
 permalink: /books/the glittering world/
 
-hero_image: /assets/images/vol 5/volume 5 banner.jpg
+hero_image: /assets/images/vol5/volume 5 banner.jpg
 
 quote_1: 
 quote_2: 
