@@ -90,7 +90,7 @@ mobile_link_name_3:
 
 <html>
 <html>
-<div style="border: 1px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
+<div style="border: 0px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
     <div style="display: flex; flex: 45%; padding-right: 15px;">
         <img src="https://image-hub-cloud.lightningsource.com/2011-04-01/Images/front_cover/x200/sku/9798218825652.jpg?viewkey=b305a7b209987383908cf446dd966e256271e188d981085c0931adb4862550d5" style="width: 96px; height: auto; align-self: flex-start;" />
     </div>
@@ -123,4 +123,3 @@ mobile_link_name_3:
     </div>
 </div></html>
 
-</center>
