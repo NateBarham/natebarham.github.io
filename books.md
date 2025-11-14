@@ -89,21 +89,24 @@ mobile_link_name_3:
 </div></html>
 
 <html>
-<div style="border: 0px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
+<html>
+<div style="border: 1px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
     <div style="display: flex; flex: 45%; padding-right: 15px;">
+        <img src="https://image-hub-cloud.lightningsource.com/2011-04-01/Images/front_cover/x200/sku/9798218825652.jpg?viewkey=b305a7b209987383908cf446dd966e256271e188d981085c0931adb4862550d5" style="width: 96px; height: auto; align-self: flex-start;" />
     </div>
     <div style="flex: 55%;">
         <div style="text-align: left; font: normal normal bold 16px/22px Open Sans; padding: 5px;">
-            Alora's Tear, Volume V
+            The Glittering World: Alora&#39;s Tear, Volume V
         </div>
         <div style="text-align: left; font: italic normal normal 13px/18px Open Sans; padding: 5px;">
-             Title & Release Date TBD
+             Barham, Nathan
          </div>
          <div>
+            <a href="https://shop.ingramspark.com/b/084?params=FIV9l3yhbCzpKK157qF3dXFdYMPb3sQwGqaEZvYu9tX" target="_blank" style="background: #FEBE10 0% 0% no-repeat padding-box; border-radius:8px; color:black; text-decoration:none; width: 163px; height: 34px; display: table-cell; text-align: center; vertical-align: middle; font: normal normal bold 16px/22px Open Sans;">Buy Now</a>
          </div>
     </div>
 </div></html>
-
+	
 <html>
 <div style="border: 0px solid #DCDCDC; border-radius: 12px; padding: 15px; display: flex; width:300px;">
     <div style="display: flex; flex: 45%; padding-right: 15px;">
